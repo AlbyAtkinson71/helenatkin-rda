@@ -1,0 +1,12 @@
+---
+title: "Test Article"
+date: "2025-10-24"
+author: "Helen Atkin Group"
+slug: "test-article"
+excerpt: "This is a test article to make sure everything works!"
+category: "News"
+---
+
+This is test content. If you can see this, your site is working! 
+
+We'll replace this with your real 27 articles in a moment.

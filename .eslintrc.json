@@ -1,0 +1,14 @@
+{
+  "plugins": ["security", "jsx-a11y"],
+  "extends": [
+    "next/core-web-vitals",
+    "plugin:security/recommended",
+    "plugin:jsx-a11y/recommended"
+  ],
+  "rules": {
+    "react/jsx-no-target-blank": "error",
+    "security/detect-object-injection": "warn",
+    "security/detect-non-literal-fs-filename": "warn",
+    "security/detect-possible-timing-attacks": "warn"
+  }
+}
