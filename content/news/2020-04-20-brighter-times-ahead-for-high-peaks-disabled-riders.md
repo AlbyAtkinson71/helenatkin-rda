@@ -10,7 +10,7 @@ tags: ["arena", "fund-raising"]
 
 Happier days are on the horizon for Buxton-based Helen Atkin Group, Riding for the Disabled (RDA) as a £140,000 covered equestrian arena starts to take shape.
 
-[caption id="attachment_253" align="alignright" width="300"][](http://www.helenatkinrda.org.uk/wp-content/uploads/2020/04/NR20-04-20_Groundwork_covered_arena-scaled.jpg) Dave and Louise Thompson, owners of Buxton Riding School - which hosts regular riding sessions operated by Helen Atkin Group, RDA - celebrate the start of groundwork to create a £140,000 covered equestrian arena.[/caption]
+[caption id="attachment_253" align="alignright" width="300"][](../images/NR20-04-20_Groundwork_covered_arena-scaled.jpg) Dave and Louise Thompson, owners of Buxton Riding School - which hosts regular riding sessions operated by Helen Atkin Group, RDA - celebrate the start of groundwork to create a £140,000 covered equestrian arena.[/caption]
 
 Groundwork has started to lay firm foundations for the 30 metres by 50 metres structure, which will enable disabled riders of all ages and abilities across the High Peak in Derbyshire to ride in most weather conditions and is expected to open later this year.
 
