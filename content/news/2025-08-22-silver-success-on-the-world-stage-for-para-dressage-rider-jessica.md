@@ -27,4 +27,4 @@ Janine Frost, Chairperson of Helen Atkin Group Buxton RDA added: “We are all s
 
 Helen Atkin Group Buxton is a voluntary group (charity number 1182183) providing riding therapy for disabled children and adults aged from six to over 60 across the High Peak, using selected horses and ponies hired from Buxton Riding School. Nw volunteers are always warmly welcomed. For more information, visit its website at helenatkinrda.org.uk or its Facebook page at [facebook.com/Buxton RDA](https://facebook.com/Buxton RDA).
 
-[](https://www.helenatkinrda.org.uk/wp-content/uploads/2025/08/Jess-and-Danny-2025-2.jpg)
+<img src="images/Jess-and-Danny-2025-2.jpg" alt="Jessica Limb and another rider stand beside a horse in an outdoor equestrian setting, smiling toward the camera. The horse is positioned alongside them, and the scene conveys celebration, support, and pride after a successful para-dressage achievement. No readable text appears in the image." width="500" height="300">
