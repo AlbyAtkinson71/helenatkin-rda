@@ -9,7 +9,7 @@ category: "News"
 
 Multi-medal winning Paralympic dressage rider Sir Lee Pearson CBE notched up yet another award to add to his impressive tally when he visited Buxton to officially open a £180,000 covered arena for disabled riders.
 
-[](https://www.helenatkinrda.org.uk/wp-content/uploads/2022/05/IMG_2870.jpg)*World-beating Paralympic rider Sir Lee Pearson CBE*
+*World-beating Paralympic rider Sir Lee Pearson CBE*
 
 For Staffordshire Moorlands-based Lee – a Paralympic Gold medallist on 14 occasions – was presented with a commemorative medal to mark the special event, watched by riders, volunteers, supporters and sponsors of Helen Atkin Group Buxton Riding for the Disabled (RDA) in the Helen Atkin Building* at Buxton Riding School, Fern Road on Saturday April 23.
 

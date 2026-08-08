@@ -31,8 +31,7 @@ Helen Atkin Group Buxton RDA is a voluntary group providing riding therapy for l
 
 New volunteers are always welcome, so if you would like to help and want to find out more, please contact **Deborah Ward **on **07940 516060** or email [wardsinbuxton@gmail.com](mailto:wardsinbuxton@gmail.com).
 
-[](https://www.helenatkinrda.org.uk/wp-content/uploads/2023/06/Elsa-and-Jacob-Countryside-Challenge-2023.jpg)
 
-[](https://www.helenatkinrda.org.uk/wp-content/uploads/2023/06/Regional-Dressage-Qualifiers-2023-scaled.jpg)
 
-[](https://www.helenatkinrda.org.uk/wp-content/uploads/2023/06/Viv-at-Regional-Dressage-Qualifiers-2023.jpg)
+
+

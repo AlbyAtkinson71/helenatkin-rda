@@ -50,14 +50,14 @@ export default async function NewsArticle({ params }) {
           </div>
         </header>
         {postData.image && (
-          <div className="mb-8 rounded-lg overflow-hidden">
-            <img
-              src={postData.image}
-              alt={postData.imageAlt || ''}
-              className="w-full h-auto"
-            />
-          </div>
-        )}
+  <div className="mb-8 rounded-lg overflow-hidden h-64 md:h-96">
+    <img
+      src={postData.image}
+      alt={postData.imageAlt || ''}
+      className="w-full h-full object-cover"
+    />
+  </div>
+)}
         <div 
           className="prose prose-lg max-w-none bg-white rounded-lg shadow-sm p-8 md:p-12"
           dangerouslySetInnerHTML={{ __html: postData.contentHtml }}

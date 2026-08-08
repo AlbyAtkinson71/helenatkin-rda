@@ -15,7 +15,7 @@ Typically British rain showers failed to dampen spirits as she and Lynne Mordeca
 
 William, Prince of Wales; Princesses Beatrice and Eugenie and Peter and Zara Phillips, children of Anne, the Princess Royal – who is President of National RDA - were among those present at the prestigious event, which Pat says she will remember for the rest of her life.
 
-[](https://www.helenatkinrda.org.uk/wp-content/uploads/2024/06/Pat-at-Buckinghsm-Palace-Garden-Party-2.jpg)
+
 
 “The weather wasn’t very kind, but we were on cloud nine all day and it was a real thrill to see the Prince of Wales and other members of the Royal Family in person, as well as to meet other guests who support a wide variety of organisations and causes all over the country,” said Pat, who has served as Group Treasurer for 37 years.
 

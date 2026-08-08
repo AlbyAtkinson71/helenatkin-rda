@@ -25,9 +25,9 @@ Added Wendy: ”It is with great sadness that I have officially stood down as Gr
 
  “I am sad to be leaving, but very proud of what the group has achieved so far, and also of the ideas and enthusiasm the group has for the future.”
 
-- [](https://www.helenatkinrda.org.uk/wp-content/uploads/2021/05/Wendy-at-Uttoxeter-Races-scaled.jpg)Wendy Howe speaking on behalf of the Helen Atkin Group, RDA
-- [](https://www.helenatkinrda.org.uk/wp-content/uploads/2021/05/Helen-Atkin-Group-charity-awards-photo-2--scaled.jpg)Wendy Howe accepting an award on behalf of Helen Atkin Group, RDA
-- [](https://www.helenatkinrda.org.uk/wp-content/uploads/2021/05/Barn-dance-Wendy-and-Janine.jpg)Janine Frost (left) with Wendy Howe (right)
-- [](https://www.helenatkinrda.org.uk/wp-content/uploads/2019/11/43207536_2253933471557543_1503167149768704000_o.jpg)Wendy Howe (right) fundraising for the Helen Atkin Group, RDA
-- [](https://www.helenatkinrda.org.uk/wp-content/uploads/2017/07/cropped-image.jpeg)Group photo of the volunteers for the Helen Atkins Group, RDA
+- Wendy Howe speaking on behalf of the Helen Atkin Group, RDA
+- Wendy Howe accepting an award on behalf of Helen Atkin Group, RDA
+- Janine Frost (left) with Wendy Howe (right)
+- Wendy Howe (right) fundraising for the Helen Atkin Group, RDA
+- Group photo of the volunteers for the Helen Atkins Group, RDA
 Photo gallery of Wendy Howe during her role as Chairman

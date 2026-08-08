@@ -11,7 +11,7 @@ Journalist Janette Sykes has been honoured after 35 years of work for a group wh
 
 Sixty-four-year-old Janette has been awarded the Pat Bishop Trophy for Volunteer of the Year by the Riding for the Disabled Association (RDA) North Midlands region.
 
-[](https://www.helenatkinrda.org.uk/wp-content/uploads/2022/02/Volunteer-of-the-Year-2022.jpg)*Volunteer of the Year, Janette Sykes (left) with Jane Corrall*
+*Volunteer of the Year, Janette Sykes (left) with Jane Corrall*
 
 As well as using skills honed in a long and successful career in newspapers, magazines and public relations to promote riding for the disabled, Janette has worked week-in, week-out behind the scenes across north Derbyshire.
 

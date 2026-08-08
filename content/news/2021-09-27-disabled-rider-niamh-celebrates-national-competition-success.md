@@ -21,7 +21,7 @@ She represented Buxton-based Helen Atkin Group RDA in the senior class for rider
 
 Riders, volunteers and supporters of the group joined Niamh at Buxton Riding School, Fern Road, to watch her class being live streamed on YouTube from the competition venue at Hartpury in Gloucestershire, and raised their glasses to celebrate her success when the results were announced.
 
-[](https://www.helenatkinrda.org.uk/wp-content/uploads/2021/09/Toasting-Niamhs-success-2021.jpg)*Riders, volunteers and supporters toast Niamh Simmons’ success in the RDA Virtual National Championships 2021 at Buxton Riding School, Fern Road.*
+*Riders, volunteers and supporters toast Niamh Simmons’ success in the RDA Virtual National Championships 2021 at Buxton Riding School, Fern Road.*
 
 Commentators at the RDA Virtual National Championships described Niamh’s effort as a ‘fantastic achievement’.
 
@@ -35,4 +35,3 @@ Janette Sykes, Countryside Challenge co-ordinator for Helen Atkin Group RDA, add
 
 Helen Atkin Group RDA is always keen to hear from anyone able to volunteer to help run its regular riding sessions at Buxton Riding School, Fern Road. Opportunities range from leading horses and assisting with riders to administration tasks and fundraising. Anyone interested is invited to contact Janine Frost at [janinefrostrda@gmail.com](mailto:janinefrostrda@gmail.com) or on 07960 961605.
 
-[](https://www.helenatkinrda.org.uk/wp-content/uploads/2020/04/RDA.jpg)

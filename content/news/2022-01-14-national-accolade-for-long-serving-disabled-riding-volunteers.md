@@ -9,7 +9,7 @@ category: "News"
 
 Long-serving volunteers have received national recognition for notching up more than 135 years’ work to help boost the health, happiness and quality of life for disabled riders of all ages and abilities.
 
-[](https://www.helenatkinrda.org.uk/wp-content/uploads/2022/01/Long_service_awards_2022.jpg)Jane Corrall, Leicestershire County Chair, RDA (third from left) congratulates volunteers from Helen Atkin Group Buxton RDA on their national RDA long service awards. Also pictured (left to right) are Andrea Newstead, Julie Andrew, Janine Frost, Janette Sykes, Pat Atkin and Val Mansell.
+Jane Corrall, Leicestershire County Chair, RDA (third from left) congratulates volunteers from Helen Atkin Group Buxton RDA on their national RDA long service awards. Also pictured (left to right) are Andrea Newstead, Julie Andrew, Janine Frost, Janette Sykes, Pat Atkin and Val Mansell.
 
 Five members of Helen Atkin Group Buxton Riding for the Disabled (RDA) have been given long service awards from national RDA for their role in supporting and encouraging riders from across the High Peak since the group was formed 35 years ago.
 

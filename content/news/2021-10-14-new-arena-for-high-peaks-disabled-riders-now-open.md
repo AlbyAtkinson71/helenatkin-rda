@@ -13,7 +13,7 @@ Almost three years of tireless fundraising, preparation and construction work ha
 
 Group Chairman Janine Frost cut the ribbon to declare open the 30 metres by 50 metres building – named after the late daughter of one of the group’s founder members and long-standing treasurer, Pat Atkin – on Tuesday October 12.
 
-[](https://www.helenatkinrda.org.uk/wp-content/uploads/2021/10/Ribbon-cutting-Helen-Atkin-Arena.jpg)*Helen Atkin Group Buxton RDA Chairman Janine Frost (second from right) cuts the ribbon to declare open the Helen Atkin Arena, watched by riders and volunteers. Also pictured are (left to right) Caroline Watmough, Trustee Julie Andrew and Pat Atkin, all of whom helped to found the group more than 30 years ago, and Louise Thompson of Buxton Riding School*.
+*Helen Atkin Group Buxton RDA Chairman Janine Frost (second from right) cuts the ribbon to declare open the Helen Atkin Arena, watched by riders and volunteers. Also pictured are (left to right) Caroline Watmough, Trustee Julie Andrew and Pat Atkin, all of whom helped to found the group more than 30 years ago, and Louise Thompson of Buxton Riding School*.
 
 “I am absolutely delighted that, after several years of unstinting commitment, belief and sheer hard graft, we are finally able to use the fantastic new facilities in our fabulous new facility,” she said.
 
@@ -47,4 +47,3 @@ An added bonus has come from Norman Cheng of Hong Kong-based Strategic Sports, b
 
 Helen Atkin Group Buxton RDA would now like to hear from more disabled riders keen to take advantage of the new facilities, as well as potential volunteers willing to lend a hand in a wide range of roles. Anyone interested is invited to contact Janine on 07960 961605 or at [janinefrostrda@gmail.com](mailto:janinefrostrda@gmail.com).
 
-[](https://www.helenatkinrda.org.uk/wp-content/uploads/2020/04/RDA.jpg)

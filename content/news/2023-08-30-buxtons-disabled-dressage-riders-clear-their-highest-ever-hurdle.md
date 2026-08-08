@@ -19,7 +19,7 @@ Janine Frost, Chairperson of Helen Atkin Group RDA, said: “Both Jess and Vivie
 
 “Many hours of practice and preparation were put in behind the scenes to ensure that both riders and horses were at their best on their big day, so I’d like to extend a sincere thank you to everyone involved.”
 
-[](https://www.helenatkinrda.org.uk/wp-content/uploads/2023/11/Viv-on-Strathwillan-BD-2023.png)* Viv on Strathwillan* and *Jess on Hexden Dancing Stranger*
+* Viv on Strathwillan* and *Jess on Hexden Dancing Stranger*
 
 Helen Atkin Group Buxton RDA is a voluntary group providing riding therapy for local disabled children and adults using selected horses and ponies based at Buxton Riding School, Fern Farm. London Road, Buxton.
 

@@ -25,7 +25,7 @@ She came top in the senior class for riders with a leader or side walker, and wi
 
 “We’ll all be rooting for her now that she is going on to represent us in this year’s RDA Virtual National Championships. Competition in the Regional Qualifiers was tough, and the national test will be even stiffer, but we’ll be supporting her all the way.”
 
- Niamh was one of 11 junior and senior riders representing Helen Atkin RDA in the virtual North Midlands Regional Qualifiers, which attracted almost 50 entries. Covid 19 restrictions meant that the competition was held virtually for the first time ever, with riders filmed on video and entries judged online.
+Niamh was one of 11 junior and senior riders representing Helen Atkin RDA in the virtual North Midlands Regional Qualifiers, which attracted almost 50 entries. Covid 19 restrictions meant that the competition was held virtually for the first time ever, with riders filmed on video and entries judged online.
 
 Others who scored individual success were Hannah Webster, who came second in the same class as Niamh; Becky Edwards, who achieved fifth place in the class for senor independent riders; and Hamish Dicken, who came sixth in the class for junior independent riders.
 
@@ -38,8 +38,3 @@ Helen Atkin Group RDA volunteers rose to the challenge by building their own obs
  Niamh’s entry will once again be filmed on video and judged online. The top six competitor videos in each class will then be streamed, along with other attractions, during the RDA Virtual National Championships on September 25 and 26, when the results in each category will also be announced.
 
 Helen Atkin Group RDA is always keen to hear from anyone able to volunteer to help run its regular riding sessions at Buxton Riding School, Fern Road. Opportunities range from leading horses and assisting with riders to administration tasks and fundraising. Anyone interested is invited to contact Janine Frost at [janinefrostrda@gmail.com](mailto:janinefrostrda@gmail.com) or on 07960 961605.
-
-- [](https://www.helenatkinrda.org.uk/wp-content/uploads/2021/07/Countryside-Challenge-Regional-Qualifier-2021-1.jpg)
-- [](https://www.helenatkinrda.org.uk/wp-content/uploads/2021/07/Countryside-Challenge-Regional-Qualifier-2021-4.jpg)
-- [](https://www.helenatkinrda.org.uk/wp-content/uploads/2021/07/Countryside-Challenge-Regional-Qualifier-2021-2.jpg)
-- [](https://www.helenatkinrda.org.uk/wp-content/uploads/2021/07/Countryside-Challenge-Regional-Qualifier-2021-3.jpg)

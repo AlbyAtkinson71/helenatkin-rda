@@ -42,20 +42,19 @@ Current co-owner of the riding school, Caroline’s sister Louise Thompson, is a
 
 Now the group offers regular riding sessions for around 80 riders on suitable horses and ponies hired from Buxton Riding School and has about 50 volunteers. Some of its riders have scored success in both regional and national RDA competitions such as the Countryside Challenge and dressage in recent years. Regular carriage driving sessions were re-introduced in 2024 using Jimmy, a specially-trained pony supplied by Louise’s cousin Robert Andrew, after a gap of more than 20 years.
 
-[](https://www.helenatkinrda.org.uk/wp-content/uploads/2025/02/RDA-Buxton_Royal-Visit_14.02.25_-24-scaled.jpg)
 
-[](https://www.helenatkinrda.org.uk/wp-content/uploads/2025/02/RDA-Buxton_Royal-Visit_14.02.25_-22-scaled.jpg)
 
-[](https://www.helenatkinrda.org.uk/wp-content/uploads/2025/02/RDA-Buxton_Royal-Visit_14.02.25_-20-scaled.jpg)
 
-[](https://www.helenatkinrda.org.uk/wp-content/uploads/2025/02/RDA-Buxton_Royal-Visit_14.02.25_-13-scaled.jpg)
 
-[](https://www.helenatkinrda.org.uk/wp-content/uploads/2025/02/RDA-Buxton_Royal-Visit_14.02.25_-7-scaled.jpg)
 
-[](https://www.helenatkinrda.org.uk/wp-content/uploads/2025/02/RDA-Buxton_Royal-Visit_14.02.25_-3-scaled.jpg)
 
-[](https://www.helenatkinrda.org.uk/wp-content/uploads/2025/02/RDA-Buxton_Royal-Visit_14.02.25_-45-scaled.jpg)
 
-[](https://www.helenatkinrda.org.uk/wp-content/uploads/2025/02/RDA-Buxton_Royal-Visit_14.02.25_-36-scaled.jpg)
 
-[](https://www.helenatkinrda.org.uk/wp-content/uploads/2025/02/RDA-Buxton_Royal-Visit_14.02.25_-30-scaled.jpg)
+
+
+
+
+
+
+
+
