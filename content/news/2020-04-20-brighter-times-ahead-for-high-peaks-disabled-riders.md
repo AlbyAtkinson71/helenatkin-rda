@@ -6,6 +6,7 @@ slug: "brighter-times-ahead-for-high-peaks-disabled-riders"
 excerpt: "Happier days are on the horizon for Buxton-based Helen Atkin Group, Riding for the Disabled (RDA) as a £140,000 covered equestrian arena starts to take shape."
 category: "News"
 tags: ["arena", "fund-raising"]
+image: "/images/NR20-04-20_Groundwork_covered_arena.jpg"
 ---
 
 Happier days are on the horizon for Buxton-based Helen Atkin Group, Riding for the Disabled (RDA) as a £140,000 covered equestrian arena starts to take shape.
