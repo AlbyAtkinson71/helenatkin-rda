@@ -6,7 +6,7 @@ slug: "london-marathon-runner-issy-raises-3000-for-disabled-riding-charity"
 excerpt: "First-time London Marathon runner Issy Frost has tripled the original target she set herself to raise almost £3,000 for a High Peak-based disabled riding charity."
 category: "News"
 tags: ["#londonmarathon", "#marathonlondon", "fund-raising", "fundraising", "RDA"]
-image: "/images/images2025/Issy1.jpg"
+image: "/images/Issy1.jpg"
 imageAlt: "Issy holding her marathon number"
 ---
 

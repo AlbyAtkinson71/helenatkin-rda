@@ -6,7 +6,7 @@ slug: "top-royal-award-for-vintage-volunteer-julie"
 excerpt: "One of the key founders of a High Peak charity providing life-changing therapy for disabled people of all ages has been awarded the highest accolade bestowed by the Riding for the Disabled Association (RDA) for decades of service to the group."
 category: "News"
 tags: ["HRH The Princess Royal", "RDA", "Volunteering"]
-image: "/images/images2025/JulieAndrew/JuliePresidentsAward2025.jpg"
+image: "/images/JuliePresidentsAward2025.jpg"
 imageAlt: "Defibrillator installed at Buxton Riding School"
 ---
 

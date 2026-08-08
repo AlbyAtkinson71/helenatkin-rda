@@ -6,7 +6,7 @@ slug: "royal-red-letter-day-for-disabled-riding-group"
 excerpt: "Decades of dedicated work to provide life-changing riding therapy for disabled people of all ages across the High Peak in Derbyshire have been crowned with an official visit by Her Royal Highness The Princess Royal."
 category: "News"
 tags: ["#lroyalvisit", "#herroyalhighnesstheprincessroyal", "#royal#", "fund-raising", "RDA"]
-image: "/images/images2025/PrincessRoyalVisit2025/royal-visit-feb-2025.jpg"
+image: "/images/PrincessRoyalVisit2025/royal-visit-feb-2025.jpg"
 imageAlt: "Her Royal Highness The Princess Royal greeting members of the Helen Atkin RDA"
 ---
 
