@@ -1,33 +1,27 @@
 // app/components/NewsCard.jsx
 // Accessible news article card component
-//
-// Security notes:
-// - article.title, excerpt, imageAlt are rendered as JSX children (plain text).
-//   React escapes these automatically — do NOT switch to dangerouslySetInnerHTML
-//   without running content through DOMPurify (isomorphic-dompurify) first.
-// - article.image is passed to Next.js <Image> which enforces the domain whitelist
-//   configured in next.config.mjs — only add trusted domains there.
-// - article.slug is interpolated into hrefs. Validate slugs server-side to ensure
-//   they contain only [a-z0-9-] characters before storing/returning them.
-
-import Image from 'next/image';
+// NOTE: Uses standard <img> tags (not next/image) to avoid path/optimization issues
 
 export default function NewsCard({ article }) {
   return (
     <article className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-xl transition-shadow duration-300">
-      {/* Featured image — uses Next.js <Image> for domain enforcement and optimisation */}
-      {article.image && (
-        <div className="relative h-48 overflow-hidden">
-          <Image
+      {/* Featured image */}
+      <div className="relative h-48 overflow-hidden bg-gradient-to-br from-[#e8f4f0] to-[#dff0ea]">
+        {article.image ? (
+          <img
             src={article.image}
             alt={article.imageAlt || ''}
-            fill
-            className="object-cover hover:scale-105 transition-transform duration-300"
+            className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
             loading="lazy"
-            sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
           />
-        </div>
-      )}
+        ) : (
+          <div className="w-full h-full flex items-center justify-center text-[#2d5f4f]">
+            <svg className="w-16 h-16 opacity-30" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" />
+            </svg>
+          </div>
+        )}
+      </div>
 
       <div className="p-6">
         {/* Category badge */}
@@ -37,7 +31,7 @@ export default function NewsCard({ article }) {
           </span>
         )}
 
-        {/* Article title — React escapes this; do not use dangerouslySetInnerHTML */}
+        {/* Article title */}
         <h3 className="text-xl font-bold mb-3 text-gray-900">
           <a
             href={`/news/${article.slug}`}
@@ -59,15 +53,15 @@ export default function NewsCard({ article }) {
           })}
         </time>
 
-        {/* Excerpt — React escapes this; do not use dangerouslySetInnerHTML */}
-        <p className="text-gray-700 mb-4 line-clamp-3" style={{ lineHeight: '1.6' }}>
+        {/* Excerpt */}
+        <p className="text-gray-700 mb-4 line-clamp-3">
           {article.excerpt}
         </p>
 
         {/* Read more link */}
         <a
           href={`/news/${article.slug}`}
-          className="inline-flex items-center text-emerald-700 hover:text-emerald-800 font-semibold focus:outline-none focus:ring-2 focus:ring-emerald-500 rounded min-h-[44px]"
+          className="inline-flex items-center text-emerald-700 hover:text-emerald-800 font-semibold focus:outline-none focus:ring-2 focus:ring-emerald-500 rounded"
           aria-label={`Read more about ${article.title}`}
         >
           Read more
@@ -91,9 +85,7 @@ export default function NewsCard({ article }) {
   );
 }
 
-// app/components/NewsGrid.jsx
-// Grid container for displaying multiple news articles
-
+// NewsGrid component - grid container for displaying multiple news articles
 export function NewsGrid({ articles }) {
   return (
     <section 
@@ -118,7 +110,7 @@ export function NewsGrid({ articles }) {
         <div className="text-center mt-12">
           <a
             href="/media-centre"
-            className="inline-flex items-center justify-center bg-emerald-700 hover:bg-emerald-800 text-white font-bold py-3 px-8 rounded-lg transition-colors duration-200 focus:outline-none focus:ring-4 focus:ring-emerald-300 min-h-[44px]"
+            className="inline-block bg-emerald-700 hover:bg-emerald-800 text-white font-bold py-3 px-8 rounded-lg transition-colors duration-200 focus:outline-none focus:ring-4 focus:ring-emerald-300"
           >
             View All News
           </a>
@@ -127,34 +119,3 @@ export function NewsGrid({ articles }) {
     </section>
   );
 }
-
-// Example usage with sample data
-export const sampleArticles = [
-  {
-    slug: 'life-saving-defibrillator-live-at-buxton-riding-school',
-    title: 'Life-saving defibrillator live at Buxton Riding School',
-    excerpt: 'Emergency – and potentially life-saving – treatment is now available at Buxton Riding School thanks to a £3,000 defibrillator installed by Helen Atkin Group Riding for the Disabled Association (RDA).',
-    date: '2025-10-15',
-    category: 'News',
-    image: '/images/defibrillator1.jpg',
-    imageAlt: 'Defibrillator installed at Buxton Riding School'
-  },
-  {
-    slug: 'silver-success-on-the-world-stage-for-para-dressage-rider-jessica',
-    title: 'Silver success on the world stage for para-dressage rider Jessica',
-    excerpt: 'Derbyshire rider Jessica Limb – who receives on-going support from a Buxton based disabled riding charity – has scored success on her international debut in the inaugural Virtus World Para-Dressage Championships.',
-    date: '2025-09-20',
-    category: 'News',
-    image: '/images/jessica-success.jpg',
-    imageAlt: 'Jessica Limb competing in para-dressage'
-  },
-  {
-    slug: 'top-royal-award-for-vintage-volunteer-julie',
-    title: 'Top Royal award for vintage volunteer Julie',
-    excerpt: 'One of the key founders of a High Peak charity providing life-changing therapy for disabled people of all ages has been awarded the highest accolade bestowed by the Riding for the Disabled Association (RDA).',
-    date: '2025-08-10',
-    category: 'News',
-    image: '/images/julie-award.jpg',
-    imageAlt: 'Julie receiving her Royal award'
-  }
-];

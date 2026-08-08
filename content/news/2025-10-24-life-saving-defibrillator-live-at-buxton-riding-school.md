@@ -6,7 +6,7 @@ slug: "life-saving-defibrillator-live-at-buxton-riding-school"
 excerpt: "Emergency – and potentially life-saving - treatment is now available at Buxton Riding School thanks to a £3,000 defibrillator installed by Helen Atkin Group Riding for the Disabled Association (RDA)."
 category: "News"
 tags: ["defibrillator", "fund-raising", "RDA"]
-image: "../public/images/defibrillator1.jpg"
+image: "/images/defibrillator1.jpg"
 imageAlt: "Defibrillator installed at Buxton Riding School"
 ---
 
