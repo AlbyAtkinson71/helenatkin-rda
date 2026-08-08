@@ -49,8 +49,17 @@ const nextConfig = {
   },
 
   images: {
-    // Whitelist only trusted image domains
-    domains: ['helenatkinsrda.org.uk','buxtonrda.org.uk'],
+    // Whitelist only trusted image domains (fixed typo + updated to remotePatterns)
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'helenatkinrda.org.uk',
+      },
+      {
+        protocol: 'https',
+        hostname: 'buxtonrda.org.uk',
+      },
+    ],
     // Disallow SVGs from remote sources to prevent XSS via SVG
     dangerouslyAllowSVG: false,
     contentDispositionType: 'attachment',
