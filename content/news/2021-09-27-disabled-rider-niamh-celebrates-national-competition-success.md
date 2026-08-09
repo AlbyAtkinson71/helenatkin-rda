@@ -12,8 +12,6 @@ imagePosition: "center 20%"
 
 Determined horsewoman Niamh Simmons has overcome a life-limiting condition to score joint sixth place in her class in a prestigious national competition for disabled riders – just months after getting back in the saddle.
 
-![Niamh Simmons smiling and holding a medal while seated on her horse Cracker, both standing outdoors in a grassy arena or paddock. Niamh, a disabled rider, is wearing riding gear and appears proud and delighted after a competition win. Cracker is a dark horse with a harness and the scene has a bright, positive, supportive atmosphere with soft natural light. The medal is clearly visible in Niamh’s hand.](/images/NSandCracker2.jpg)
-
 Niamh (41) of Grindlow, near Buxton – whose mobility is severely restricted by multiple sclerosis – competed against riders from all over the UK to achieve the accolade in the Countryside Challenge section of the Riding for the Disabled (RDA) Virtual National Championships 2021, held on September 25 and 26.
 
 She represented Buxton-based Helen Atkin Group RDA in the senior class for riders with a leader or side walker, and said she was delighted to do so well on behalf of the group at such a high level.
