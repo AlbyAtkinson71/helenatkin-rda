@@ -5,6 +5,10 @@ author: "Media"
 slug: "disabled-carriage-driving-back-on-track-in-high-peak"
 excerpt: "Disabled people across the High Peak now have the chance to try their hand at driving a pony and carriage for the first time since the millennium."
 category: "News"
+image: "/images/driver-carriage.jpg"
+imageAlt: ""
+imagePosition: "center"
+
 ---
 
 Disabled people across the High Peak now have the chance to try their hand at driving a pony and carriage for the first time since the millennium.
