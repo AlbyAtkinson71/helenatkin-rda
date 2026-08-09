@@ -42,6 +42,19 @@ Current co-owner of the riding school, Caroline’s sister Louise Thompson, is a
 
 Now the group offers regular riding sessions for around 80 riders on suitable horses and ponies hired from Buxton Riding School and has about 50 volunteers. Some of its riders have scored success in both regional and national RDA competitions such as the Countryside Challenge and dressage in recent years. Regular carriage driving sessions were re-introduced in 2024 using Jimmy, a specially-trained pony supplied by Louise’s cousin Robert Andrew, after a gap of more than 20 years.
 
+---
+title: "Royal Red-Letter Day for disabled riding group"
+date: "2025-02-14"
+...
+gallery:
+  - src: "/images/RDA-Buxton_Royal-Visit_1.jpg"
+    alt: "The Princess Royal greeting volunteers"
+  - src: "/images/RDA-Buxton_Royal-Visit_2.jpg"
+    alt: "Riders demonstrating their skills"
+  - src: "/images/RDA-Buxton_Royal-Visit_3.jpg"
+    alt: "Group photo with the Princess Royal"
+---
+
 
 
 

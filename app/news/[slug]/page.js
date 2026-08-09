@@ -50,19 +50,29 @@ export default async function NewsArticle({ params }) {
             )}
           </div>
         </header>
-        {postData.image && (
-  <div 
-  className="prose prose-lg max-w-none bg-white rounded-lg shadow-sm p-8 md:p-12"
-  dangerouslySetInnerHTML={{ __html: postData.contentHtml }}
-/>
 
-{postData.gallery && postData.gallery.length > 0 && (
-  <Gallery images={postData.gallery} />
-)}
-        <div 
+        {postData.image && (
+          <div
+            className="mb-8 rounded-lg overflow-hidden h-64 md:h-96"
+          >
+            <img
+              src={postData.image}
+              alt={postData.imageAlt || ''}
+              className="w-full h-full object-cover"
+              style={{ objectPosition: postData.imagePosition || 'center' }}
+            />
+          </div>
+        )}
+
+        <div
           className="prose prose-lg max-w-none bg-white rounded-lg shadow-sm p-8 md:p-12"
           dangerouslySetInnerHTML={{ __html: postData.contentHtml }}
         />
+
+        {postData.gallery && postData.gallery.length > 0 && (
+          <Gallery images={postData.gallery} />
+        )}
+
         {postData.tags && postData.tags.length > 0 && (
           <div className="mt-8 pt-8 border-t border-gray-200">
             <h2 className="text-lg font-semibold text-gray-900 mb-3">Tags</h2>
@@ -78,6 +88,7 @@ export default async function NewsArticle({ params }) {
             </div>
           </div>
         )}
+
         <div className="mt-12 text-center">
           <a href="/media-centre" className="inline-flex items-center text-emerald-700 hover:text-emerald-800 font-semibold focus:outline-none focus:ring-2 focus:ring-emerald-500 rounded">
             <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
