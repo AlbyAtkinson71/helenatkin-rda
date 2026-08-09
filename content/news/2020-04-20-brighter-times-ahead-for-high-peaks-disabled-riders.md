@@ -7,11 +7,12 @@ excerpt: "Happier days are on the horizon for Buxton-based Helen Atkin Group, Ri
 category: "News"
 tags: ["arena", "fund-raising"]
 image: "/images/NR20-04-20_Groundwork_covered_arena.jpg"
+imageAlt: ""
 ---
 
 Happier days are on the horizon for Buxton-based Helen Atkin Group, Riding for the Disabled (RDA) as a £140,000 covered equestrian arena starts to take shape.
 
-![Dave and Louise Thompson at the start of groundwork for the new covered arena](/images/NR20-04-20_Groundwork_covered_arena.jpg)
+![Dave and Louise Thompson stand beside a digger at the start of groundwork for the new covered arena, with a rural outdoor setting and a clear sky. The couple are smiling and looking toward the camera. The digger is orange and positioned in the foreground, while the surrounding land and building site suggest the beginning of a new equestrian arena in Buxton. The tone is hopeful and community-focused.](/images/NR20-04-20_Groundwork_covered_arena.jpg)
 
 *Dave and Louise Thompson, owners of Buxton Riding School - which hosts regular riding sessions operated by Helen Atkin Group, RDA - celebrate the start of groundwork to create a £140,000 covered equestrian arena.*
 

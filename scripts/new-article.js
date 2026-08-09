@@ -62,6 +62,7 @@ category: "${category}"
 tags: []
 image: ""
 imageAlt: ""
+imagePosition: "center"
 ---
 
 Write your opening paragraph here.

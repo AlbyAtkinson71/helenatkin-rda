@@ -55,6 +55,7 @@ export default async function NewsArticle({ params }) {
       src={postData.image}
       alt={postData.imageAlt || ''}
       className="w-full h-full object-cover"
+      style={{ objectPosition: postData.imagePosition || 'center' }}
     />
   </div>
 )}

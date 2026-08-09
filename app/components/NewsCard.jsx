@@ -13,6 +13,7 @@ export default function NewsCard({ article }) {
             alt={article.imageAlt || ''}
             className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
             loading="lazy"
+            style={{ objectPosition: article.imagePosition || 'center' }}
           />
         ) : (
           <div className="w-full h-full flex items-center justify-center text-[#2d5f4f]">

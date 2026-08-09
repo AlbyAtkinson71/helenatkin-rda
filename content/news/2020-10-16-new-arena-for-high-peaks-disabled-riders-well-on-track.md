@@ -6,6 +6,8 @@ slug: "new-arena-for-high-peaks-disabled-riders-well-on-track"
 excerpt: "Work is progressing apace on a £140,000 covered equestrian arena being built on behalf of Buxton-based Helen Atkin Group, Riding for the Disabled (RDA)."
 category: "News"
 tags: ["arena", "fund-raising"]
+image: "images/NR20-04-20_Groundwork_covered_arena.jpg"
+imageAlt: ""
 ---
 
 Work is progressing apace on a £140,000 covered equestrian arena being built on behalf of Buxton-based Helen Atkin Group, Riding for the Disabled (RDA).
@@ -14,7 +16,9 @@ The 30 metres by 50 metres structure - which will enable disabled riders of all 
 
 Groundwork on the arena at Buxton Riding School, Fern Farm, Buxton, which began in April, has continued throughout the Coronavirus pandemic. Main construction work is due to start and is expected to be completed later this year.
 
-Dave and Louise Thompson, owners of Buxton Riding School - which hosts regular riding sessions operated by Helen Atkin Group, RDA - celebrate the start of groundwork to create a £140,000 covered equestrian arena.
+![Dave and Louise Thompson standing beside freshly dug ground at the start of groundwork for the new covered arena, smiling and holding a shovel, with a rural farm setting behind them and a small wooden sign visible in the background reading New Arena Groundwork Underway](/images/NR20-04-20_Groundwork_covered_arena.jpg)
+
+*Dave and Louise Thompson, owners of Buxton Riding School - which hosts regular riding sessions operated by Helen Atkin Group, RDA - celebrate the start of groundwork to create a £140,000 covered equestrian arena.*
 
 “All our dedicated members, volunteers and supporters are delighted that what was originally an ambitious dream to celebrate national RDA’s 50th anniversary last year is now well on track to becoming a reality,” said Group Chairman Wendy Howe.
 

@@ -5,6 +5,8 @@ author: "kbhgln"
 slug: "fond-farewell-to-wendy-howe-from-buxtons-helen-atkin-group-rda"
 excerpt: "Warm tributes are being paid to Wendy Howe, who has stepped down after 19 years’ loyal and unstinting service as Chairman of the Helen Atkin Group, RDA in Buxton."
 category: "News"
+image: "images/fundraising-banner.jpg"
+imageAlt: ""
 ---
 
 Warm tributes are being paid to Wendy Howe, who has stepped down after 19 years’ loyal and unstinting service as Chairman of the Helen Atkin Group, RDA in Buxton.
@@ -25,9 +27,9 @@ Added Wendy: ”It is with great sadness that I have officially stood down as Gr
 
  “I am sad to be leaving, but very proud of what the group has achieved so far, and also of the ideas and enthusiasm the group has for the future.”
 
-- Wendy Howe speaking on behalf of the Helen Atkin Group, RDA
-- Wendy Howe accepting an award on behalf of Helen Atkin Group, RDA
-- Janine Frost (left) with Wendy Howe (right)
-- Wendy Howe (right) fundraising for the Helen Atkin Group, RDA
-- Group photo of the volunteers for the Helen Atkins Group, RDA
-Photo gallery of Wendy Howe during her role as Chairman
+![Wendy Howe speaking on behalf of the Helen Atkin Group, RDA](/images/Wendy-at-Uttoxeter-Races.jpg)
+![Wendy Howe accepting an award on behalf of Helen Atkin Group, RDA](images/Helen-Atkin-Group-charity-awards-photo.jpg)
+![Janine Frost (left) with Wendy Howe (right)](Barn-dance-Wendy-and-Janine.jpg
+)
+![Wendy Howe (right) fundraising for the Helen Atkin Group, RDA](images/fundraising-banner.jpg)
+![Group photo of the volunteers for the Helen Atkins Group, RDA](images/Open-Day-2017.jpg)
