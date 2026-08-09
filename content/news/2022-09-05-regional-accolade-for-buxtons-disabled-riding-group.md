@@ -5,6 +5,10 @@ author: "kbhgln"
 slug: "regional-accolade-for-buxtons-disabled-riding-group"
 excerpt: "Volunteers and supporters of a Buxton-based charity offering riding therapy for disabled people of all ages are celebrating news that the group has received recognition in a prestigious regional award scheme for unsung heroes who have a positive i..."
 category: "News"
+image: "BBC-Radio-Derby-Make-a-Difference-Awards-2022-web-300x225.jpg"
+imageAlt: ""
+imagePosition: "center"
+
 ---
 
 Volunteers and supporters of a Buxton-based charity offering riding therapy for disabled people of all ages are celebrating news that the group has received recognition in a prestigious regional award scheme for unsung heroes who have a positive impact on their community.
