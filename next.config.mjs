@@ -10,6 +10,7 @@ const securityHeaders = [
     "img-src 'self' data: blob:",
     "font-src 'self'",
     "connect-src 'self'",
+    "frame-src 'self' https://www.youtube-nocookie.com",
     "frame-ancestors 'none'",
   ].join('; '),
 },

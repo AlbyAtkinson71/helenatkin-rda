@@ -6,6 +6,7 @@ slug: "royal-red-letter-day-for-disabled-riding-group"
 excerpt: "Decades of dedicated work to provide life-changing riding therapy for disabled people of all ages across the High Peak in Derbyshire have been crowned with an official visit by Her Royal Highness The Princess Royal."
 category: "News"
 tags: ["royalvisit", "herroyalhighnesstheprincessroyal", "royal", "fund-raising", "RDA"]
+youtubeId: "ggtOTPqUfjI"
 image: "/images/royal-visit-feb-2025.jpg"
 imageAlt: "Her Royal Highness The Princess Royal greeting members of the Helen Atkin RDA"
 gallery:
@@ -35,13 +36,13 @@ Decades of dedicated work to provide life-changing riding therapy for disabled p
 
 The Princess Royal - who this year celebrates 40 years as President of the national Riding for the Disabled Association (RDA) - received a warm welcome from volunteers, riders, supporters and official guests representing Helen Atkin Group Buxton RDA on Friday February 14.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ggtOTPqUfjI?si=L_UrtkLz3P90EqPB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 Greeted by the Lord-Lieutenant of Derbyshire, Mrs. Elizabeth Fothergill CBE, she met civic dignitaries and various representatives of the charity before watching musical riding and carriage driving displays at the Helen Atkin Group’s covered arena at Buxton Riding School, Fern Road, Buxton.
 
 Her Royal Highness – escorted by Group Chairperson Janine Frost - also presented rosettes to participating riders and long-service awards to volunteers, horses and ponies, before cutting a celebratory cake and unveiling a commemorative plaque. She also received a posy from one of the group’s youngest riders, six-year-old Emmie Wakerley.
 
-<img src="/images/royal-visit-feb-2025.jpg" alt="Emmie Wakerley, age six, standing beside The Princess Royal and Group Secretary Deborah Ward, presenting a posy to her. The Princess Royal is smiling and wearing a formal outfit. The scene is indoors in the Helen Atkin Group Buxton RDA covered arena during a royal visit. The mood is warm and celebratory.">*Emmie Wakerley (6) presenting a posy to The Princess Royal, assisted by our Group Secretary, Deborah Ward.*
+![Emmie Wakerley, age six, standing beside The Princess Royal and Group Secretary Deborah Ward, presenting a posy to her. The Princess Royal is smiling and wearing a formal outfit. The scene is indoors in the Helen Atkin Group Buxton RDA covered arena during a royal visit. The mood is warm and celebratory.](/images/royal-visit-feb-2025.jpg)
+
+*Emmie Wakerley (6) presenting a posy to The Princess Royal, assisted by our Group Secretary, Deborah Ward.*
 
 Principal long-service awards were presented to Julie Andrew and Pat Atkin (37 years each), Janette Sykes (35 years) and Louise Thompson (25 years). Another 15 volunteers also received recognition for their services, ranging from five years to 20 years, as did long-serving horses and ponies Cracker, Big Daisy and Floyd.
 

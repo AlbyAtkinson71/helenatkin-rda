@@ -1,6 +1,7 @@
 // app/news/[slug]/page.js
 import { getPostData, getAllPostSlugs } from '../../../lib/posts';
 import Gallery from '../../components/Gallery';
+import VideoEmbed from '../../components/VideoEmbed';
 
 export async function generateStaticParams() {
   const slugs = getAllPostSlugs();
@@ -68,6 +69,10 @@ export default async function NewsArticle({ params }) {
           className="prose prose-lg max-w-none bg-white rounded-lg shadow-sm p-8 md:p-12"
           dangerouslySetInnerHTML={{ __html: postData.contentHtml }}
         />
+
+        {postData.youtubeId && (
+          <VideoEmbed youtubeId={postData.youtubeId} title={postData.title} />
+        )}
 
         {postData.gallery && postData.gallery.length > 0 && (
           <Gallery images={postData.gallery} />
