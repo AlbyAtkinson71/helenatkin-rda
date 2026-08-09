@@ -8,13 +8,20 @@ category: "News"
 tags: ["#lroyalvisit", "#herroyalhighnesstheprincessroyal", "#royal#", "fund-raising", "RDA"]
 image: "/images/royal-visit-feb-2025.jpg"
 imageAlt: "Her Royal Highness The Princess Royal greeting members of the Helen Atkin RDA"
+gallery:
+  - src: "/images/RDA-Buxton_Royal-Visit_1.jpg"
+    alt: "The Princess Royal greeting volunteers"
+  - src: "/images/RDA-Buxton_Royal-Visit_2.jpg"
+    alt: "Riders demonstrating their skills"
+  - src: "/images/RDA-Buxton_Royal-Visit_3.jpg"
+    alt: "Group photo with the Princess Royal"
 ---
 
 Decades of dedicated work to provide life-changing riding therapy for disabled people of all ages across the High Peak in Derbyshire have been crowned with an official visit by Her Royal Highness The Princess Royal.
 
 The Princess Royal - who this year celebrates 40 years as President of the national Riding for the Disabled Association (RDA) - received a warm welcome from volunteers, riders, supporters and official guests representing Helen Atkin Group Buxton RDA on Friday February 14.
 
-https://www.youtube.com/watch?v=ggtOTPqUfjI
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ggtOTPqUfjI?si=L_UrtkLz3P90EqPB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Greeted by the Lord-Lieutenant of Derbyshire, Mrs. Elizabeth Fothergill CBE, she met civic dignitaries and various representatives of the charity before watching musical riding and carriage driving displays at the Helen Atkin Group’s covered arena at Buxton Riding School, Fern Road, Buxton.
 
@@ -41,19 +48,6 @@ Helen Atkin Group Buxton RDA was launched in 1987 by Pat Atkin – who is still 
 Current co-owner of the riding school, Caroline’s sister Louise Thompson, is an accredited RDA instructor. She and her husband Dave carried out extensive groundwork for the group’s showpiece covered arena during the Covid pandemic, ready for riding to resume in October 2021.
 
 Now the group offers regular riding sessions for around 80 riders on suitable horses and ponies hired from Buxton Riding School and has about 50 volunteers. Some of its riders have scored success in both regional and national RDA competitions such as the Countryside Challenge and dressage in recent years. Regular carriage driving sessions were re-introduced in 2024 using Jimmy, a specially-trained pony supplied by Louise’s cousin Robert Andrew, after a gap of more than 20 years.
-
----
-title: "Royal Red-Letter Day for disabled riding group"
-date: "2025-02-14"
-...
-gallery:
-  - src: "/images/RDA-Buxton_Royal-Visit_1.jpg"
-    alt: "The Princess Royal greeting volunteers"
-  - src: "/images/RDA-Buxton_Royal-Visit_2.jpg"
-    alt: "Riders demonstrating their skills"
-  - src: "/images/RDA-Buxton_Royal-Visit_3.jpg"
-    alt: "Group photo with the Princess Royal"
----
 
 
 
