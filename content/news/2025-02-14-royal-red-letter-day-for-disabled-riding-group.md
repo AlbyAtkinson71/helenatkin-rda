@@ -41,7 +41,7 @@ Greeted by the Lord-Lieutenant of Derbyshire, Mrs. Elizabeth Fothergill CBE, she
 
 Her Royal Highness – escorted by Group Chairperson Janine Frost - also presented rosettes to participating riders and long-service awards to volunteers, horses and ponies, before cutting a celebratory cake and unveiling a commemorative plaque. She also received a posy from one of the group’s youngest riders, six-year-old Emmie Wakerley.
 
-<img src="/images/royal-visit-feb-2025.jpg" alt="Emmie Wakerley, age six, standing beside The Princess Royal and Group Secretary Deborah Ward, presenting a posy to her. The Princess Royal is smiling and wearing a formal outfit. The scene is indoors in the Helen Atkin Group Buxton RDA covered arena during a royal visit. The mood is warm and celebratory." width="500" height="300">*Emmie Wakerley (6) presenting a posy to The Princess Royal, assisted by our Group Secretary, Deborah Ward.*
+<img src="/images/royal-visit-feb-2025.jpg" alt="Emmie Wakerley, age six, standing beside The Princess Royal and Group Secretary Deborah Ward, presenting a posy to her. The Princess Royal is smiling and wearing a formal outfit. The scene is indoors in the Helen Atkin Group Buxton RDA covered arena during a royal visit. The mood is warm and celebratory.">*Emmie Wakerley (6) presenting a posy to The Princess Royal, assisted by our Group Secretary, Deborah Ward.*
 
 Principal long-service awards were presented to Julie Andrew and Pat Atkin (37 years each), Janette Sykes (35 years) and Louise Thompson (25 years). Another 15 volunteers also received recognition for their services, ranging from five years to 20 years, as did long-serving horses and ponies Cracker, Big Daisy and Floyd.
 
