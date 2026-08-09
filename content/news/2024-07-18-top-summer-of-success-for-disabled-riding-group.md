@@ -13,7 +13,7 @@ gallery:
   - src: "/images/RDAAwards-139.jpg"
     alt: "Receiving an award"
   - src: "/images/Viv-and-Smudge.jpg"
-    alt: "Viv and Smudge""
+    alt: "Viv and Smudge"
   - src: "/images/VivAndHerculesNationals2023"
     alt: "Viv and Hercules"
 ---
