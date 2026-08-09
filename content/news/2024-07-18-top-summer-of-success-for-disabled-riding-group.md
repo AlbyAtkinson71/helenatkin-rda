@@ -6,6 +6,9 @@ slug: "top-summer-of-success-for-disabled-riding-group"
 excerpt: "Volunteers and competitors at a High Peak-based disabled riding charity are celebrating an outstanding summer of success – including the Royal seal of approval for their service and expertise and top dressage results in a national competition."
 category: "News"
 tags: ["RDA"]
+image: "/images/RDAAwards-139.jpg"
+imageAlt: ""
+imagePosition: "center"
 ---
 
 Volunteers and competitors at a High Peak-based disabled riding charity are celebrating an outstanding summer of success – including the Royal seal of approval for their service and expertise and top dressage results in a national competition.

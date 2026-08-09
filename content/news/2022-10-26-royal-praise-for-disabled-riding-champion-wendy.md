@@ -5,6 +5,9 @@ author: "kbhgln"
 slug: "royal-praise-for-disabled-riding-champion-wendy"
 excerpt: "Former Buxton volunteer Wendy Howe has been given the Royal seal of approval for her outstanding work in supporting riding therapy for disabled people of all ages across the High Peak."
 category: "News"
+image: ""
+imageAlt: ""
+imagePosition: "center"
 ---
 
 Former Buxton volunteer Wendy Howe has been given the Royal seal of approval for her outstanding work in supporting riding therapy for disabled people of all ages across the High Peak.
