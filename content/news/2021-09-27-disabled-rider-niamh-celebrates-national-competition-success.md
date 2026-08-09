@@ -5,7 +5,7 @@ author: "Media"
 slug: "disabled-rider-niamh-celebrates-national-competition-success"
 excerpt: "Determined horsewoman Niamh Simmons has overcome a life-limiting condition to score joint sixth place in her class in a prestigious national competition for disabled riders – just months after getting back in the saddle."
 category: "News"
-image: "images/NSandCracker2.jpg"
+image: "/images/NSandCracker2.jpg"
 imageAlt: ""
 imagePosition: "center 20%"
 ---
