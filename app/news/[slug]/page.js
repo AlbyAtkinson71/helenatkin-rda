@@ -51,7 +51,7 @@ export default async function NewsArticle({ params }) {
           </div>
         </header>
         {postData.image && (
-  <<div 
+  <div 
   className="prose prose-lg max-w-none bg-white rounded-lg shadow-sm p-8 md:p-12"
   dangerouslySetInnerHTML={{ __html: postData.contentHtml }}
 />
