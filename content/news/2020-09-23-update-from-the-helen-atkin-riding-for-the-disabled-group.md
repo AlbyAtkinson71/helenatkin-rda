@@ -5,6 +5,9 @@ author: "kbhgln"
 slug: "update-from-the-helen-atkin-riding-for-the-disabled-group"
 excerpt: "We had hoped to start back riding this term but the rules and regulations set out by RDA National as well as the Covid-19 risk assessment of the activities, has made it logistically difficult to keep riders and volunteers safe."
 category: "News"
+image: "/images/rideOut.jpg"
+imageAlt: ""
+
 ---
 
 We had hoped to start back riding this term but the rules and regulations set out by RDA National as well as the Covid-19 risk assessment of the activities, has made it logistically difficult to keep riders and volunteers safe. 
