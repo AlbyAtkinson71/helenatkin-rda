@@ -1,5 +1,6 @@
 // app/news/[slug]/page.js
 import { getPostData, getAllPostSlugs } from '../../../lib/posts';
+import Gallery from '../../components/Gallery';
 
 export async function generateStaticParams() {
   const slugs = getAllPostSlugs();
@@ -50,14 +51,13 @@ export default async function NewsArticle({ params }) {
           </div>
         </header>
         {postData.image && (
-  <div className="mb-8 rounded-lg overflow-hidden h-64 md:h-96">
-    <img
-      src={postData.image}
-      alt={postData.imageAlt || ''}
-      className="w-full h-full object-cover"
-      style={{ objectPosition: postData.imagePosition || 'center' }}
-    />
-  </div>
+  <<div 
+  className="prose prose-lg max-w-none bg-white rounded-lg shadow-sm p-8 md:p-12"
+  dangerouslySetInnerHTML={{ __html: postData.contentHtml }}
+/>
+
+{postData.gallery && postData.gallery.length > 0 && (
+  <Gallery images={postData.gallery} />
 )}
         <div 
           className="prose prose-lg max-w-none bg-white rounded-lg shadow-sm p-8 md:p-12"

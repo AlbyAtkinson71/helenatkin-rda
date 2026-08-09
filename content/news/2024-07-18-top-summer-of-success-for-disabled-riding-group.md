@@ -33,4 +33,16 @@ Janine Frost, Chairperson of Helen Atkin Group Buxton RDA, said: "We are absolut
 
 The RDA President's Award is given to volunteers who have shown extraordinary dedication and service over three decades or more, while the RDA Coaching Awards reward those who have made an outstanding contribution, benefiting riders and volunteers alike.
 
+---
+title: "Top summer of success 2024"
+...
+gallery:
+  - src: "/images/RDAAwards-139.jpg"
+    alt: "Receiving an award"
+  - src: "/images/Viv-and-Smudge.jpg"
+    alt: "Viv and Smudge""
+  - src: "/images/Viv-and-Hercules-RDA-Nationals-2024"
+    alt: "Viv and Hercules"
+---
+
 Helen Atkin Group Buxton RDA is a voluntary group (charity number 1182183) providing riding therapy for local disabled children and adults using selected horses and ponies based at Buxton Riding School, Fern Farm, Buxton. For more details, visit its website at [helenatkinrda.org.uk](https://www.helenatkinrda.org.uk) or its Facebook page at [facebook.com/BuxtonRDA](https://www.facebook.com/BuxtonRDA/).
