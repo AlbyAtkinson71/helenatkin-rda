@@ -14,7 +14,7 @@ gallery:
     alt: "Receiving an award"
   - src: "/images/Viv-and-Smudge.jpg"
     alt: "Viv and Smudge""
-  - src: "/images/Viv-and-Hercules-RDA-Nationals-2024"
+  - src: "/images/VivAndHerculesNationals2023"
     alt: "Viv and Hercules"
 ---
 
