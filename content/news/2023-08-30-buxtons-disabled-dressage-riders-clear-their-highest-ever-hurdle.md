@@ -5,6 +5,10 @@ author: "Media"
 slug: "buxtons-disabled-dressage-riders-clear-their-highest-ever-hurdle"
 excerpt: "Two dressage competitors supported by a Buxton-based disabled riding charity have crowned their successful 2023 season with impeccable performances at the Equissage Para Bronze and Silver Summer Championships."
 category: "News"
+image: "/images/JessAndVivWithRosettesBD2023.jpg"
+imageAlt: ""
+imagePosition: "center 30%"
+
 ---
 
 Two dressage competitors supported by a Buxton-based disabled riding charity have crowned their successful 2023 season with impeccable performances at the Equissage Para Bronze and Silver Summer Championships.
@@ -18,8 +22,6 @@ Janine Frost, Chairperson of Helen Atkin Group RDA, said: “Both Jess and Vivie
 “Both they and their horses rose to the challenge with highly polished performances, and we couldn’t be prouder of their achievement, which is a real coup for our group. We all feel very honoured that they have been our first-ever ambassadors at the very highest national level - a British Dressage-supported UK Para Dressage competition.
 
 “Many hours of practice and preparation were put in behind the scenes to ensure that both riders and horses were at their best on their big day, so I’d like to extend a sincere thank you to everyone involved.”
-
-* Viv on Strathwillan* and *Jess on Hexden Dancing Stranger*
 
 Helen Atkin Group Buxton RDA is a voluntary group providing riding therapy for local disabled children and adults using selected horses and ponies based at Buxton Riding School, Fern Farm. London Road, Buxton.
 
