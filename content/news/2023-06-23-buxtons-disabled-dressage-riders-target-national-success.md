@@ -5,6 +5,14 @@ author: "Media"
 slug: "buxtons-disabled-dressage-riders-target-national-success"
 excerpt: "Two dressage competitors supported by a Buxton-based disabled riding charity have scored five-star performances qualifying them to represent the group at a prestigious national event."
 category: "News"
+image: ""
+imageAlt: ""
+imagePosition: "center"
+gallery:
+  - src: "/images/Jess-and-Hexden-Dancing-Stranger-2024.jpg"
+    alt: "Jess riding Hexden Dancing Stranger
+  - src: "/images/Viv-and-Hercules-RDA-Nationals-2024.jpg"
+    alt: "Viv sitting on top of Hercules"
 ---
 
 Two dressage competitors supported by a Buxton-based disabled riding charity have scored five-star performances qualifying them to represent the group at a prestigious national event.
@@ -30,8 +38,3 @@ Riders’ parents have also organised a Rock and Roll Bingo Night at Buxton Cons
 Helen Atkin Group Buxton RDA is a voluntary group providing riding therapy for local disabled children and adults using selected horses and ponies based at Buxton Riding School, Fern Farm. London Road, Buxton.
 
 New volunteers are always welcome, so if you would like to help and want to find out more, please contact **Deborah Ward **on **07940 516060** or email [wardsinbuxton@gmail.com](mailto:wardsinbuxton@gmail.com).
-
-
-
-
-

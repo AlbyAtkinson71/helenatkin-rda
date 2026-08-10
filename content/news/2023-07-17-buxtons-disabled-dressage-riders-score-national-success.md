@@ -6,6 +6,9 @@ slug: "buxtons-disabled-dressage-riders-score-national-success"
 excerpt: "Two dressage competitors supported by a Buxton-based disabled riding charity have triumphed in a prestigious national event - and could go on to achieve even greater glory."
 category: "News"
 tags: ["RDA", "RDA Nationals 2023"]
+image: "/images/JessAndVivWithRosettesBD2023.jpg"
+imageAlt: ""
+imagePosition: "center"
 ---
 
 Two dressage competitors supported by a Buxton-based disabled riding charity have triumphed in a prestigious national event - and could go on to achieve even greater glory.
@@ -27,6 +30,3 @@ Janine Frost, Chairperson of Helen Atkin Group RDA, said: “Both Jess and Vivie
 Helen Atkin Group Buxton RDA is a voluntary group providing riding therapy for local disabled children and adults using selected horses and ponies based at Buxton Riding School, Fern Farm, London Road, Buxton.
 
 New volunteers are always welcome, so if you would like to help and want to know more, please contact Deborah Ward on 07940 516060 or email [wardsinbuxton@gmail.com](mailto:wardsinbuxton@gmail.com).
-
-
-
