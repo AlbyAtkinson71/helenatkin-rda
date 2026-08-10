@@ -6,7 +6,7 @@ slug: "buxtons-disabled-dressage-riders-score-national-success"
 excerpt: "Two dressage competitors supported by a Buxton-based disabled riding charity have triumphed in a prestigious national event - and could go on to achieve even greater glory."
 category: "News"
 tags: ["RDA", "RDA Nationals 2023"]
-image: "/images/JessAndVivWithRosettesBD2023.jpg"
+image: "/images/VivAndHerculesNationals2023.jpg"
 imageAlt: ""
 imagePosition: "center"
 ---
@@ -14,10 +14,6 @@ imagePosition: "center"
 Two dressage competitors supported by a Buxton-based disabled riding charity have triumphed in a prestigious national event - and could go on to achieve even greater glory.
 
 Jessica Limb of Chesterfield and Vivienne Milburn of Great Longstone – both competing on behalf of Helen Atkin Group Buxton Riding for the Disabled Association (RDA) – achieved outstanding performances against riders from across the UK at the RDA National Championships at Hartpury College, Gloucestershire, from July 14 to 16.
-
-Jessica Limb receives a well-deserved accolade for her success at the RDA National Championships
-
-Vivienne Milburn and Hercules prepare for their award-winning dressage test at the RDA National Championships.
 
 Jessica, riding Hexden Dancing Stranger, achieved second place in the Dressage Championship Grade 7 Canter Open, the Dressage Freestyle to Music Grade 7 Canter Open and the Best Turned Out Senior classes. Vivienne, riding Hercules, scored second place in the Grade 6 Walk and Trot class.
 
