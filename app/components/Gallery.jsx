@@ -1,13 +1,17 @@
 // app/components/Gallery.jsx
 // Accessible photo gallery with lightbox - click a thumbnail to view larger,
 // navigate with arrow keys or on-screen buttons, close with Escape.
+// Includes full keyboard focus trapping while the lightbox is open.
 
 'use client';
 
-import { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect, useCallback, useRef } from 'react';
 
 export default function Gallery({ images }) {
   const [activeIndex, setActiveIndex] = useState(null); // null = lightbox closed
+  const dialogRef = useRef(null);
+  const closeButtonRef = useRef(null);
+  const previouslyFocusedElement = useRef(null);
 
   const isOpen = activeIndex !== null;
 
@@ -21,18 +25,59 @@ export default function Gallery({ images }) {
     setActiveIndex((i) => (i === images.length - 1 ? 0 : i + 1));
   }, [images.length]);
 
-  // Keyboard controls while lightbox is open
+  // When the lightbox opens: remember what was focused, then move focus
+  // into the dialog. When it closes: restore focus to where it was.
+  useEffect(() => {
+    if (isOpen) {
+      previouslyFocusedElement.current = document.activeElement;
+      // Move focus to the close button once the dialog is in the DOM
+      requestAnimationFrame(() => {
+        closeButtonRef.current?.focus();
+      });
+    } else if (previouslyFocusedElement.current) {
+      previouslyFocusedElement.current.focus();
+      previouslyFocusedElement.current = null;
+    }
+  }, [isOpen]);
+
+  // Keyboard controls while lightbox is open: Escape, arrows, and a Tab trap
   useEffect(() => {
     if (!isOpen) return;
 
     function handleKeyDown(e) {
-      if (e.key === 'Escape') closeLightbox();
-      if (e.key === 'ArrowLeft') goPrev();
-      if (e.key === 'ArrowRight') goNext();
+      if (e.key === 'Escape') {
+        closeLightbox();
+        return;
+      }
+      if (e.key === 'ArrowLeft') {
+        goPrev();
+        return;
+      }
+      if (e.key === 'ArrowRight') {
+        goNext();
+        return;
+      }
+      if (e.key === 'Tab') {
+        // Trap focus within the dialog's focusable elements
+        const focusable = dialogRef.current?.querySelectorAll(
+          'button, [href], input, select, textarea, [tabindex]:not([tabindex="-1"])'
+        );
+        if (!focusable || focusable.length === 0) return;
+
+        const first = focusable[0];
+        const last = focusable[focusable.length - 1];
+
+        if (e.shiftKey && document.activeElement === first) {
+          e.preventDefault();
+          last.focus();
+        } else if (!e.shiftKey && document.activeElement === last) {
+          e.preventDefault();
+          first.focus();
+        }
+      }
     }
 
     document.addEventListener('keydown', handleKeyDown);
-    // Prevent background scrolling while lightbox is open
     document.body.style.overflow = 'hidden';
 
     return () => {
@@ -70,6 +115,7 @@ export default function Gallery({ images }) {
       {/* Lightbox overlay */}
       {isOpen && (
         <div
+          ref={dialogRef}
           className="fixed inset-0 bg-black/90 z-50 flex items-center justify-center p-4"
           role="dialog"
           aria-modal="true"
@@ -78,6 +124,7 @@ export default function Gallery({ images }) {
         >
           {/* Close button */}
           <button
+            ref={closeButtonRef}
             onClick={closeLightbox}
             className="absolute top-4 right-4 text-white hover:text-emerald-300 focus:outline-none focus:ring-4 focus:ring-white/50 rounded-full p-2"
             aria-label="Close image viewer"
@@ -115,7 +162,7 @@ export default function Gallery({ images }) {
                 {images[activeIndex].alt}
               </p>
             )}
-            <p className="text-white/60 text-sm mt-2">
+            <p className="text-white/60 text-sm mt-2" aria-live="polite">
               {activeIndex + 1} of {images.length}
             </p>
           </div>
