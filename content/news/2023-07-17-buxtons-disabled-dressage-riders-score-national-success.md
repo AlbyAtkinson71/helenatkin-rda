@@ -8,7 +8,7 @@ category: "News"
 tags: ["RDA", "RDA Nationals 2023"]
 image: "/images/VivAndHerculesNationals2023.jpg"
 imageAlt: ""
-imagePosition: "center"
+imagePosition: "center 50%"
 ---
 
 Two dressage competitors supported by a Buxton-based disabled riding charity have triumphed in a prestigious national event - and could go on to achieve even greater glory.

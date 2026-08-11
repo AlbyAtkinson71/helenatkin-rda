@@ -7,7 +7,7 @@ excerpt: "Volunteers and supporters of a Buxton-based charity offering riding th
 category: "News"
 image: "/images/BBC-Radio-Derby-Make-a-Difference-Awards-2022-web-300x225.jpg"
 imageAlt: ""
-imagePosition: "center"
+imagePosition: "center 50%"
 
 ---
 
