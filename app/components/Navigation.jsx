@@ -75,7 +75,7 @@ export default function Navigation() {
             </a>
             <a
               href="https://cafdonate.cafonline.org/22521#!/DonationDetails"
-              className="bg-amber-500 hover:bg-amber-600 text-white px-6 py-2 rounded-lg font-bold transition-colors focus:outline-none focus:ring-4 focus:ring-amber-300"
+              className="bg-amber-700 hover:bg-amber-800 text-white px-6 py-2 rounded-lg font-bold transition-colors focus:outline-none focus:ring-4 focus:ring-amber-300"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -160,7 +160,7 @@ export default function Navigation() {
             </a>
             <a
               href="https://cafdonate.cafonline.org/22521#!/DonationDetails"
-              className="block bg-amber-500 hover:bg-amber-600 text-white px-3 py-2 rounded font-bold text-center transition-colors focus:outline-none focus:ring-4 focus:ring-amber-300"
+              className="bg-amber-700 hover:bg-amber-800 text-white px-6 py-2 rounded-lg font-bold transition-colors focus:outline-none focus:ring-4 focus:ring-amber-300"
               target="_blank"
               rel="noopener noreferrer"
               onClick={() => setMobileMenuOpen(false)}
