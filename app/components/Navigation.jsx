@@ -43,7 +43,7 @@ export default function Navigation() {
               className="flex items-center space-x-3 focus:outline-none focus:ring-2 focus:ring-emerald-500 rounded"
             >
               <img
-                src="/images/rda-logo.png"
+                src="/images/rda-logo.jpg"
                 alt="Helen Atkin Group RDA Logo"
                 className="h-10 w-auto"
               />
@@ -57,20 +57,25 @@ export default function Navigation() {
           <div className="hidden md:flex md:items-center md:space-x-8">
             <a
               href="/"
-              className="text-gray-700 hover:text-emerald-700 px-3 py-2 rounded font-medium transition-colors focus:outline-none focus:ring-2 focus:ring-emerald-500 inline-flex items-center min-h-[44px]"
-              aria-current="page"
+              className="text-gray-700 hover:text-emerald-700 px-3 py-2 rounded font-medium transition-colors focus:outline-none focus:ring-2 focus:ring-emerald-500"
             >
               Home
             </a>
             <a
               href="/media-centre"
-              className="text-gray-700 hover:text-emerald-700 px-3 py-2 rounded font-medium transition-colors focus:outline-none focus:ring-2 focus:ring-emerald-500 inline-flex items-center min-h-[44px]"
+              className="text-gray-700 hover:text-emerald-700 px-3 py-2 rounded font-medium transition-colors focus:outline-none focus:ring-2 focus:ring-emerald-500"
             >
               Media Centre
             </a>
             <a
+              href="/documents"
+              className="text-gray-700 hover:text-emerald-700 px-3 py-2 rounded font-medium transition-colors focus:outline-none focus:ring-2 focus:ring-emerald-500"
+            >
+              Documents
+            </a>
+            <a
               href="https://cafdonate.cafonline.org/22521#!/DonationDetails"
-              className="bg-amber-600 hover:bg-amber-700 text-white px-6 py-2 rounded-lg font-bold transition-colors focus:outline-none focus:ring-4 focus:ring-amber-300 inline-flex items-center min-h-[44px]"
+              className="bg-amber-500 hover:bg-amber-600 text-white px-6 py-2 rounded-lg font-bold transition-colors focus:outline-none focus:ring-4 focus:ring-amber-300"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -82,7 +87,7 @@ export default function Navigation() {
           <div className="md:hidden">
             <button
               onClick={toggleMobileMenu}
-              className="text-gray-700 hover:text-emerald-700 focus:outline-none focus:ring-2 focus:ring-emerald-500 rounded p-2 min-h-[44px] min-w-[44px] flex items-center justify-center"
+              className="text-gray-700 hover:text-emerald-700 focus:outline-none focus:ring-2 focus:ring-emerald-500 rounded p-2"
               aria-expanded={mobileMenuOpen}
               aria-controls="mobile-menu"
               aria-label="Toggle navigation menu"
@@ -134,21 +139,28 @@ export default function Navigation() {
           <div className="px-2 pt-2 pb-3 space-y-1">
             <a
               href="/"
-              className="block text-gray-700 hover:bg-emerald-50 hover:text-emerald-700 px-3 py-3 rounded font-medium transition-colors focus:outline-none focus:ring-2 focus:ring-emerald-500 min-h-[44px] flex items-center"
+              className="block text-gray-700 hover:bg-emerald-50 hover:text-emerald-700 px-3 py-2 rounded font-medium transition-colors focus:outline-none focus:ring-2 focus:ring-emerald-500"
               onClick={() => setMobileMenuOpen(false)}
             >
               Home
             </a>
             <a
               href="/media-centre"
-              className="block text-gray-700 hover:bg-emerald-50 hover:text-emerald-700 px-3 py-3 rounded font-medium transition-colors focus:outline-none focus:ring-2 focus:ring-emerald-500 min-h-[44px] flex items-center"
+              className="block text-gray-700 hover:bg-emerald-50 hover:text-emerald-700 px-3 py-2 rounded font-medium transition-colors focus:outline-none focus:ring-2 focus:ring-emerald-500"
               onClick={() => setMobileMenuOpen(false)}
             >
               Media Centre
             </a>
             <a
+              href="/documents"
+              className="block text-gray-700 hover:bg-emerald-50 hover:text-emerald-700 px-3 py-2 rounded font-medium transition-colors focus:outline-none focus:ring-2 focus:ring-emerald-500"
+              onClick={() => setMobileMenuOpen(false)}
+            >
+              Documents
+            </a>
+            <a
               href="https://cafdonate.cafonline.org/22521#!/DonationDetails"
-              className="block bg-amber-600 hover:bg-amber-700 text-white px-3 py-3 rounded font-bold text-center transition-colors focus:outline-none focus:ring-4 focus:ring-amber-300 min-h-[44px] flex items-center justify-center"
+              className="block bg-amber-500 hover:bg-amber-600 text-white px-3 py-2 rounded font-bold text-center transition-colors focus:outline-none focus:ring-4 focus:ring-amber-300"
               target="_blank"
               rel="noopener noreferrer"
               onClick={() => setMobileMenuOpen(false)}
@@ -161,30 +173,3 @@ export default function Navigation() {
     </nav>
   );
 }
-
-// Tailwind CSS for screen-reader-only class
-// Add this to your global CSS file:
-/*
-.sr-only {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  padding: 0;
-  margin: -1px;
-  overflow: hidden;
-  clip: rect(0, 0, 0, 0);
-  white-space: nowrap;
-  border-width: 0;
-}
-
-.focus\:not-sr-only:focus {
-  position: static;
-  width: auto;
-  height: auto;
-  padding: inherit;
-  margin: inherit;
-  overflow: visible;
-  clip: auto;
-  white-space: normal;
-}
-*/
