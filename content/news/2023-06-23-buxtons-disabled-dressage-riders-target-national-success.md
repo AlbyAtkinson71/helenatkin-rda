@@ -10,7 +10,7 @@ imageAlt: ""
 imagePosition: "center"
 gallery:
   - src: "/images/Jess-and-Hexden-Dancing-Stranger-2024.jpg"
-    alt: "Jess riding Hexden Dancing Stranger
+    alt: "Jess riding Hexden Dancing Stranger"
   - src: "/images/VivAndHerculesNationals2023.jpg"
     alt: "Viv sitting on top of Hercules"
 ---
