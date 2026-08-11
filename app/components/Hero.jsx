@@ -11,7 +11,7 @@ export default function Hero() {
       {/* Background image with stronger overlay for readability */}
       <div className="absolute inset-0">
         <img
-          src="/images/NewImagesMay2024/RideOut.jpg"
+          src="/images/RideOut.jpg"
           alt=""
           className="w-full h-full object-cover"
           style={{ objectPosition: 'center 30%' }}
