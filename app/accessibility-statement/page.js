@@ -84,14 +84,13 @@ export default function AccessibilityStatement() {
             accessibility, please get in touch:
           </p>
           <ul>
-            <li>Email: <a href="mailto:wardsinbuxton@gmail.com" className="text-emerald-700 underline hover:text-emerald-800">wardsinbuxton@gmail.com</a></li>
-            <li>Phone: 07940 516 060</li>
+            <li>Email: <a href="mailto:website@helenatkinrda.org.uk" className="text-emerald-700 underline hover:text-emerald-800">wardsinbuxton@gmail.com</a></li>
           </ul>
           <p>We aim to respond to accessibility queries within a reasonable timeframe.</p>
 
           <h2>Preparation of this statement</h2>
           <p>
-            This statement was last reviewed on <strong>[INSERT DATE]</strong>.
+            This statement was last reviewed on <strong>12 August 2026</strong>.
           </p>
         </div>
       </div>
