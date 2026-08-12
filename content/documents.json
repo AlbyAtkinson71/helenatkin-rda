@@ -32,12 +32,52 @@
     "updatedDate": "2026-01-01"
   },
   {
+    "title": "Equine Welfare Policy",
+    "description": "Our commitment to the health, welfare and fair treatment of the horses and ponies in our care.",
+    "category": "Policies",
+    "filename": "Equine-Welfare-Policy.pdf",
+    "fileType": "PDF",
+    "updatedDate": "2026-08-12"
+  },
+  {
+    "title": "First Aid Policy",
+    "description": "Our procedures for responding to injuries or medical emergencies during sessions.",
+    "category": "Policies",
+    "filename": "First-Aid-Policy.docx",
+    "fileType": "Word",
+    "updatedDate": "2026-08-12"
+  },
+  {
+    "title": "Complaints Policy",
+    "description": "How to raise a concern or complaint, and what to expect from us in response.",
+    "category": "Policies",
+    "filename": "RDA-Group-Complaints-Policy.pdf",
+    "fileType": "PDF",
+    "updatedDate": "2026-08-12"
+  },
+  {
+    "title": "Data Protection Policy",
+    "description": "How we handle and protect personal data in line with data protection law.",
+    "category": "Policies",
+    "filename": "RDA-Group-Data-Protection-Policy.docx",
+    "fileType": "Word",
+    "updatedDate": "2026-08-12"
+  },
+  {
     "title": "Privacy Notice",
     "description": "Information on how we collect, use and protect personal data for riders, volunteers and supporters.",
     "category": "Policies",
     "filename": "RDA-Group-Privacy-Notice.docx",
     "fileType": "Word",
     "updatedDate": "2026-01-01"
+  },
+  {
+    "title": "RDA UK Code of Conduct",
+    "description": "The national Riding for the Disabled Association's code of conduct for working together safely and respectfully.",
+    "category": "Policies",
+    "filename": "Working-Together-RDA-UK-Code-of-Conduct.pdf",
+    "fileType": "PDF",
+    "updatedDate": "2026-08-12"
   },
   {
     "title": "Getting Started Guide",
