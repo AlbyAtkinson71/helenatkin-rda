@@ -3,6 +3,7 @@
 
 import Navigation from './components/Navigation';
 import './globals.css';
+import { Analytics } from '@vercel/analytics/next';
 
 export const metadata = {
   title: {
@@ -18,6 +19,7 @@ export default function RootLayout({ children }) {
       <body className="antialiased">
         <Navigation />
         {children}
+        <Analytics />
 
         <footer className="bg-gray-900 text-white py-12 mt-16">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
