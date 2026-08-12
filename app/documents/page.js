@@ -28,7 +28,16 @@ function FileIcon({ fileType }) {
 
 export default function DocumentsPage() {
   const groupedDocuments = getDocumentsByCategory();
-  const categories = Object.keys(groupedDocuments).sort();
+  const categoryOrder = ['Guides', 'Forms', 'Policies'];
+  const categories = Object.keys(groupedDocuments).sort((a, b) => {
+    const indexA = categoryOrder.indexOf(a);
+    const indexB = categoryOrder.indexOf(b);
+    // Any category not in our priority list falls to the end, alphabetically
+    if (indexA === -1 && indexB === -1) return a.localeCompare(b);
+    if (indexA === -1) return 1;
+    if (indexB === -1) return -1;
+    return indexA - indexB;
+  });
 
   return (
     <main id="main-content" className="py-16 bg-gray-50">
