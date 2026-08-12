@@ -42,19 +42,28 @@ export default function RootLayout({ children }) {
                     </a>
                   </li>
                   <li>
-                    {/* rel="noopener noreferrer" on all external links to prevent tabnapping */}
+                    <a href="/media-centre" className="text-gray-300 hover:text-white transition-colors">
+                      Media Centre
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/documents" className="text-gray-300 hover:text-white transition-colors">
+                      Documents
+                    </a>
+                  </li>
+                  <li>
                     <a href="https://cafdonate.cafonline.org/22521#!/DonationDetails"
-                       className="text-gray-300 hover:text-white transition-colors"
-                       target="_blank"
-                       rel="noopener noreferrer">
+                      className="text-gray-300 hover:text-white transition-colors"
+                      target="_blank"
+                      rel="noopener noreferrer">
                       Donate
                     </a>
                   </li>
                   <li>
                     <a href="https://www.facebook.com/BuxtonRDA/"
-                       className="text-gray-300 hover:text-white transition-colors"
-                       target="_blank"
-                       rel="noopener noreferrer">
+                      className="text-gray-300 hover:text-white transition-colors"
+                      target="_blank"
+                      rel="noopener noreferrer">
                       Facebook
                     </a>
                   </li>
