@@ -84,7 +84,7 @@ export default function AccessibilityStatement() {
             accessibility, please get in touch:
           </p>
           <ul>
-            <li>Email: <a href="mailto:website@helenatkinrda.org.uk" className="text-emerald-700 underline hover:text-emerald-800">wardsinbuxton@gmail.com</a></li>
+            <li>Email: <a href="mailto:website@helenatkinrda.org.uk" className="text-emerald-700 underline hover:text-emerald-800">website@helenatkinrda.org.uk</a></li>
           </ul>
           <p>We aim to respond to accessibility queries within a reasonable timeframe.</p>
 
