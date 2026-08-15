@@ -26,12 +26,13 @@ export default function CookiePolicy() {
             banner, because they do not set cookies in the first place.
           </p>
 
-          <h2>Website analytics</h2>
+          <h2>Website analytics and performance monitoring</h2>
           <p>
-            We use Vercel Analytics to understand, in general terms, how many people visit
-            this website and which pages are most useful to them. This tool is{' '}
-            <strong>cookieless</strong> &ndash; it does not use cookies or local storage, and it
-            does not track individual visitors across websites. The information collected is
+            We use Vercel Analytics and Vercel Speed Insights to understand, in general terms,
+            how many people visit this website, which pages are most useful to them, and how
+            well the site is performing technically. These tools are{' '}
+            <strong>cookieless</strong> &ndash; they do not use cookies or local storage, and
+            they do not track individual visitors across websites. The information collected is
             aggregated and anonymised, and typically includes:
           </p>
           <ul>
@@ -39,10 +40,11 @@ export default function CookiePolicy() {
             <li>Approximate location (country or region, not precise location)</li>
             <li>General device type (e.g. mobile or desktop) and browser</li>
             <li>How visitors arrived at the site (e.g. via a search engine or another website)</li>
+            <li>Technical page-loading speed and performance metrics</li>
           </ul>
           <p>
             This information cannot be used to identify you personally, and is used only to help
-            us understand how the website is used so we can improve it.
+            us understand how the website is used and performing so we can improve it.
           </p>
 
           <h2>Embedded video content</h2>
@@ -75,13 +77,13 @@ export default function CookiePolicy() {
             If we ever introduce additional cookies or tracking tools in the future, we will
             update this policy and, where required by law, seek your consent first.
           </p>
-          <p>This policy was last reviewed on <strong>12 August 2026</strong>.</p>
+          <p>This policy was last reviewed on <strong>[INSERT DATE]</strong>.</p>
 
           <h2>Questions</h2>
           <p>
             If you have any questions about this policy, please contact us at{' '}
-            <a href="mailto:website@helenatkinrda.org.uk" className="text-emerald-700 underline hover:text-emerald-800">
-              website@helenatkinrda.org.uk
+            <a href="mailto:wardsinbuxton@gmail.com" className="text-emerald-700 underline hover:text-emerald-800">
+              wardsinbuxton@gmail.com
             </a>.
           </p>
         </div>

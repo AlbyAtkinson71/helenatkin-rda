@@ -16,6 +16,16 @@ export async function generateMetadata({ params }) {
   return {
     title: postData.title,
     description: postData.excerpt || postData.title,
+    openGraph: {
+      title: postData.title,
+      description: postData.excerpt || postData.title,
+      url: `https://helenatkinrda.org.uk/news/${slug}`,
+      type: 'article',
+      publishedTime: postData.date,
+      images: postData.image
+        ? [{ url: postData.image, width: 1200, height: 630 }]
+        : [{ url: '/images/rda-logo.png', width: 800, height: 600 }],
+    },
   };
 }
 

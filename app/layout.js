@@ -2,16 +2,32 @@
 // Root layout with navigation and footer
 
 import Navigation from './components/Navigation';
-import './globals.css';
 import { Analytics } from '@vercel/analytics/next';
-import { SpeedInsights } from "@vercel/speed-insights/next"
+import { SpeedInsights } from '@vercel/speed-insights/next';
+import './globals.css';
 
 export const metadata = {
+  metadataBase: new URL('https://helenatkinrda.org.uk'),
   title: {
     default: 'Helen Atkin Group - Riding for the Disabled',
     template: '%s | Helen Atkin Group RDA',
   },
   description: 'Providing riding therapy for local disabled children and adults in Buxton.',
+  openGraph: {
+    title: 'Helen Atkin Group - Riding for the Disabled',
+    description: 'Providing riding therapy for local disabled children and adults in Buxton.',
+    url: 'https://helenatkinrda.org.uk',
+    siteName: 'Helen Atkin Group RDA',
+    images: [
+      {
+        url: '/images/rda-logo.png',
+        width: 800,
+        height: 600,
+      },
+    ],
+    locale: 'en_GB',
+    type: 'website',
+  },
 };
 
 export default function RootLayout({ children }) {
