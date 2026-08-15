@@ -4,6 +4,7 @@
 import Navigation from './components/Navigation';
 import './globals.css';
 import { Analytics } from '@vercel/analytics/next';
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 export const metadata = {
   title: {
