@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 
 const securityHeaders = [
-  {
+{
   key: 'Content-Security-Policy',
   value: [
     "default-src 'self'",
@@ -12,6 +12,9 @@ const securityHeaders = [
     "connect-src 'self'",
     "frame-src 'self' https://www.youtube-nocookie.com",
     "frame-ancestors 'none'",
+    "object-src 'none'",
+    "base-uri 'self'",
+    "form-action 'self'",
   ].join('; '),
 },
   {
