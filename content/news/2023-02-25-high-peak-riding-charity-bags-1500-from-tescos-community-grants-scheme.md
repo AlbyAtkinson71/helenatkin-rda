@@ -5,7 +5,7 @@ author: "Media"
 slug: "high-peak-riding-charity-bags-1500-from-tescos-community-grants-scheme"
 excerpt: "High Peak shoppers have helped a Buxton-based charity net £1,500 to help it boost the comfort and safety of disabled riders of all ages."
 category: "News"
-image: "/images/rideOut.jpg"
+image: "/images/RideOut.jpg"
 imageAlt: ""
 imagePosition: "center"
 ---
