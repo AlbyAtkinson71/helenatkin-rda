@@ -20,7 +20,7 @@ export const metadata = {
     siteName: 'Helen Atkin Group RDA',
     images: [
       {
-        url: '/images/rda-logo.png',
+        url: '/images/rda-logo.webp',
         width: 800,
         height: 600,
       },

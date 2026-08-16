@@ -5,7 +5,7 @@ author: "Media"
 slug: "disabled-carriage-driving-back-on-track-in-high-peak"
 excerpt: "Disabled people across the High Peak now have the chance to try carriage driving with Helen Atkin Group Buxton RDA at Fern Road, as the charity reintroduces sessions for the first time in over 20 years."
 category: "News"
-image: "/images/driver-carriage.jpg"
+image: "/images/driver-carriage.webp"
 imageAlt: ""
 imagePosition: "center"
 

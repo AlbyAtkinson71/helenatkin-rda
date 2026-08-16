@@ -5,7 +5,7 @@ author: "Media"
 slug: "volunteer-jos-vip-invite-to-buckingham-palace"
 excerpt: "Hours of hard work put into preparations for a Royal visit led to a very special invitation for riding therapy volunteer Jo Taylor – including a handshake from HM King Charles III."
 category: "News"
-image: "/images/JT_RoyalGardenParty.jpg"
+image: "/images/JT_RoyalGardenParty.webp"
 imageAlt: "Jo standing in the garden of Buckingham Palace"
 ---
 

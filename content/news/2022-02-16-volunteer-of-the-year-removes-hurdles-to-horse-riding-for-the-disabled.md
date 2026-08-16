@@ -5,7 +5,7 @@ author: "kbhgln"
 slug: "volunteer-of-the-year-removes-hurdles-to-horse-riding-for-the-disabled"
 excerpt: "Journalist Janette Sykes has been honoured after 35 years of work for a group which gives disabled people a new perspective on life through a shared passion for horse-riding."
 category: "News"
-image: "/images/volunteer-of-the-year-2022.jpg"
+image: "/images/volunteer-of-the-year-2022.webp"
 imageAlt: ""
 imagePosition: "center"
 ---
@@ -14,7 +14,7 @@ Journalist Janette Sykes has been honoured after 35 years of work for a group wh
 
 Sixty-four-year-old Janette has been awarded the Pat Bishop Trophy for Volunteer of the Year by the Riding for the Disabled Association (RDA) North Midlands region.
 
-![Janette Sykes, left, and Jane Corrall stand together smiling after Janette received the Pat Bishop Trophy for Volunteer of the Year. They are both wearing smart, festive winter clothing in a warm indoor setting with a blurred background and soft natural light. The text Volunteer of the Year appears visually in the image beside Janette, but the focus is on the two women celebrating the award. The overall mood is proud and joyful.](/images/volunteer-of-the-year-2022.jpg)
+![Janette Sykes, left, and Jane Corrall stand together smiling after Janette received the Pat Bishop Trophy for Volunteer of the Year. They are both wearing smart, festive winter clothing in a warm indoor setting with a blurred background and soft natural light. The text Volunteer of the Year appears visually in the image beside Janette, but the focus is on the two women celebrating the award. The overall mood is proud and joyful.](/images/volunteer-of-the-year-2022.webp)
 
 *Volunteer of the Year, Janette Sykes (left) with Jane Corrall*
 

@@ -5,7 +5,7 @@ author: "Media"
 slug: "disabled-rider-niamh-celebrates-national-competition-success"
 excerpt: "Determined horsewoman Niamh Simmons has overcome a life-limiting condition to score joint sixth place in her class at the RDA Virtual National Championships, just months after getting back in the saddle."
 category: "News"
-image: "/images/NSandCracker2.jpg"
+image: "/images/NSandCracker2.webp"
 imageAlt: ""
 imagePosition: "center 20%"
 ---
@@ -24,7 +24,7 @@ She represented Buxton-based Helen Atkin Group RDA in the senior class for rider
 
 Riders, volunteers and supporters of the group joined Niamh at Buxton Riding School, Fern Road, to watch her class being live streamed on YouTube from the competition venue at Hartpury in Gloucestershire, and raised their glasses to celebrate her success when the results were announced.
 
-![A group of riders, volunteers and supporters gather indoors at Buxton Riding School to celebrate Niamh Simmons after her success in the RDA Virtual National Championships 2021. They stand together smiling and raising glasses in a warm, joyful atmosphere. The room is a stable interior with a horse in the background and a large screen showing the competition results. Text visible on the screen reads RDA Virtual National Championships 2021 and Niamh Simmons. ](/images/Toasting-Niamhs-success-2021.jpg)
+![A group of riders, volunteers and supporters gather indoors at Buxton Riding School to celebrate Niamh Simmons after her success in the RDA Virtual National Championships 2021. They stand together smiling and raising glasses in a warm, joyful atmosphere. The room is a stable interior with a horse in the background and a large screen showing the competition results. Text visible on the screen reads RDA Virtual National Championships 2021 and Niamh Simmons. ](/images/Toasting-Niamhs-success-2021.webp)
 
 
 *Riders, volunteers and supporters toast Niamh Simmons’ success in the RDA Virtual National Championships 2021 at Buxton Riding School, Fern Road.*

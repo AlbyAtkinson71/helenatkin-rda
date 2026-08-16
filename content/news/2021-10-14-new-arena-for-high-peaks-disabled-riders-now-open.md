@@ -5,7 +5,7 @@ author: "Media"
 slug: "new-arena-for-high-peaks-disabled-riders-now-open"
 excerpt: "Riders, volunteers and supporters of Helen Atkin Group Buxton Riding for the Disabled (RDA) are celebrating the start of a bright new era as their wraps come off their state-of-the-art, £168,000 covered riding arena."
 category: "News"
-image: "/images/Ribbon-cutting-Helen-Atkin-Arena.jpg"
+image: "/images/Ribbon-cutting-Helen-Atkin-Arena.webp"
 imageAlt: ""
 ---
 
@@ -13,7 +13,7 @@ Riders, volunteers and supporters of Helen Atkin Group Buxton Riding for the Dis
 
 Almost three years of tireless fundraising, preparation and construction work have laid the foundations for disabled riders of all ages and abilities across the High Peak to ride in comfort in most weather conditions in the Helen Atkin Arena at Buxton Riding School, Fern Road.
 
-![Group Chairman Janine Frost cutting the ribbon to officially open the new Helen Atkin Arena, a large covered riding arena, at Buxton Riding School on Tuesday October 12. Janine is standing at the front with a ceremonial scissors in hand, while several riders, volunteers, and supporters watch nearby. The scene is outdoors on a bright day with the building and surrounding equestrian grounds visible in the background. The image captures a celebratory, proud atmosphere. Text in the image reads Helen Atkin Arena and includes the ribbon cutting event.](/images/Ribbon-cutting-Helen-Atkin-Arena.jpg)
+![Group Chairman Janine Frost cutting the ribbon to officially open the new Helen Atkin Arena, a large covered riding arena, at Buxton Riding School on Tuesday October 12. Janine is standing at the front with a ceremonial scissors in hand, while several riders, volunteers, and supporters watch nearby. The scene is outdoors on a bright day with the building and surrounding equestrian grounds visible in the background. The image captures a celebratory, proud atmosphere. Text in the image reads Helen Atkin Arena and includes the ribbon cutting event.](/images/Ribbon-cutting-Helen-Atkin-Arena.webp)
 
 *Helen Atkin Group Buxton RDA Chairman Janine Frost (second from right) cuts the ribbon to declare open the Helen Atkin Arena, watched by riders and volunteers. Also pictured are (left to right) Caroline Watmough, Trustee Julie Andrew and Pat Atkin, all of whom helped to found the group more than 30 years ago, and Louise Thompson of Buxton Riding School*.
 

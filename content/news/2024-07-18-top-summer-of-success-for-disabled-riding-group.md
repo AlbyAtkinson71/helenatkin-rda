@@ -6,15 +6,15 @@ slug: "top-summer-of-success-for-disabled-riding-group"
 excerpt: "Volunteers and competitors at Helen Atkin Group Buxton RDA are celebrating an outstanding summer of success, including Royal recognition for founder Pat Atkin and top dressage results at the RDA National Championships."
 category: "News"
 tags: ["RDA"]
-image: "/images/RDAAwards-139.jpg"
+image: "/images/RDAAwards-139.webp"
 imageAlt: ""
 imagePosition: "center"
 gallery:
-  - src: "/images/RDAAwards-139.jpg"
+  - src: "/images/RDAAwards-139.webp"
     alt: "Receiving an award"
-  - src: "/images/Viv-and-Smudge.jpg"
+  - src: "/images/Viv-and-Smudge.webp"
     alt: "Viv and Smudge"
-  - src: "/images/VivAndHerculesNationals2023.jpg"
+  - src: "/images/VivAndHerculesNationals2023.webp"
     alt: "Viv and Hercules"
 ---
 

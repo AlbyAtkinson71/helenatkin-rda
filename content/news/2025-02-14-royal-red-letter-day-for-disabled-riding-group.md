@@ -7,28 +7,28 @@ excerpt: "Decades of dedicated work to provide life-changing riding therapy for 
 category: "News"
 tags: ["royalvisit", "herroyalhighnesstheprincessroyal", "royal", "fund-raising", "RDA"]
 youtubeId: "ggtOTPqUfjI"
-image: "/images/royal-visit-feb-2025.jpg"
+image: "/images/royal-visit-feb-2025.webp"
 imageAlt: "Her Royal Highness The Princess Royal greeting members of the Helen Atkin RDA"
 gallery:
-  - src: "/images/RDA-Buxton-Royal-Visit-1.jpg"
+  - src: "/images/RDA-Buxton-Royal-Visit-1.webp"
     alt: ""
-  - src: "/images/RDA-Buxton-Royal-Visit-2.jpg"
+  - src: "/images/RDA-Buxton-Royal-Visit-2.webp"
     alt: ""
-  - src: "/images/RDA-Buxton-Royal-Visit-3.jpg"
+  - src: "/images/RDA-Buxton-Royal-Visit-3.webp"
     alt: ""
-  - src: "/images/RDA-Buxton-Royal-Visit-4.jpg"
+  - src: "/images/RDA-Buxton-Royal-Visit-4.webp"
     alt: ""
-  - src: "/images/RDA-Buxton-Royal-Visit-5.jpg"
+  - src: "/images/RDA-Buxton-Royal-Visit-5.webp"
     alt: ""
-  - src: "/images/RDA-Buxton-Royal-Visit-6.jpg"
+  - src: "/images/RDA-Buxton-Royal-Visit-6.webp"
     alt: ""
-  - src: "/images/RDA-Buxton-Royal-Visit-7.jpg"
+  - src: "/images/RDA-Buxton-Royal-Visit-7.webp"
     alt: ""
-  - src: "/images/RDA-Buxton-Royal-Visit-8.jpg"
+  - src: "/images/RDA-Buxton-Royal-Visit-8.webp"
     alt: ""
-  - src: "/images/RDA-Buxton-Royal-Visit-9.jpg"
+  - src: "/images/RDA-Buxton-Royal-Visit-9.webp"
     alt: ""
-  - src: "/images/RDA-Buxton-Royal-Visit-10.jpg"
+  - src: "/images/RDA-Buxton-Royal-Visit-10.webp"
     alt: ""
 ---
 
@@ -40,7 +40,7 @@ Greeted by the Lord-Lieutenant of Derbyshire, Mrs. Elizabeth Fothergill CBE, she
 
 Her Royal Highness – escorted by Group Chairperson Janine Frost - also presented rosettes to participating riders and long-service awards to volunteers, horses and ponies, before cutting a celebratory cake and unveiling a commemorative plaque. She also received a posy from one of the group’s youngest riders, six-year-old Emmie Wakerley.
 
-![Emmie Wakerley, age six, standing beside The Princess Royal and Group Secretary Deborah Ward, presenting a posy to her. The Princess Royal is smiling and wearing a formal outfit. The scene is indoors in the Helen Atkin Group Buxton RDA covered arena during a royal visit. The mood is warm and celebratory.](/images/royal-visit-feb-2025.jpg)
+![Emmie Wakerley, age six, standing beside The Princess Royal and Group Secretary Deborah Ward, presenting a posy to her. The Princess Royal is smiling and wearing a formal outfit. The scene is indoors in the Helen Atkin Group Buxton RDA covered arena during a royal visit. The mood is warm and celebratory.](/images/royal-visit-feb-2025.webp)
 
 *Emmie Wakerley (6) presenting a posy to The Princess Royal, assisted by our Group Secretary, Deborah Ward.*
 

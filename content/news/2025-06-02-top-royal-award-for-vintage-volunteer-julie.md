@@ -6,7 +6,7 @@ slug: "top-royal-award-for-vintage-volunteer-julie"
 excerpt: "Julie Andrew, a founding volunteer of Helen Atkin Group Buxton RDA 38 years ago, has received RDA's prestigious President's Award for decades of service, presented by HRH The Princess Royal."
 category: "News"
 tags: ["HRH The Princess Royal", "RDA", "Volunteering"]
-image: "/images/JuliePresidentsAward2025.jpg"
+image: "/images/JuliePresidentsAward2025.webp"
 imageAlt: "Julie Andrew receiving her President's Award from HRH The Princess Royal"
 ---
 

@@ -5,14 +5,14 @@ author: "Media"
 slug: "national-accolade-for-long-serving-disabled-riding-volunteers"
 excerpt: "Long-serving volunteers have received national recognition for notching up more than 135 years’ work to help boost the health, happiness and quality of life for disabled riders of all ages and abilities."
 category: "News"
-image: "images/Long_service_awards_2022.jpg"
+image: "images/Long_service_awards_2022.webp"
 imageAlt: ""
 imagePosition: "center"
 ---
 
 Long-serving volunteers have received national recognition for notching up more than 135 years’ work to help boost the health, happiness and quality of life for disabled riders of all ages and abilities.
 
-![A group of smiling volunteers stand in a covered arena holding their long service award certificates and medals. They are dressed smartly, with several people in the centre and others around them, celebrating their recognition for years of service. The wider setting is a horse-riding arena with a bright, welcoming atmosphere. Text in the image reads Long service awards 2022, and the overall mood is proud and joyful.](/images/Long_service_awards_2022.jpg)
+![A group of smiling volunteers stand in a covered arena holding their long service award certificates and medals. They are dressed smartly, with several people in the centre and others around them, celebrating their recognition for years of service. The wider setting is a horse-riding arena with a bright, welcoming atmosphere. Text in the image reads Long service awards 2022, and the overall mood is proud and joyful.](/images/Long_service_awards_2022.webp)
 
 *Jane Corrall, Leicestershire County Chair, RDA (third from left) congratulates volunteers from Helen Atkin Group Buxton RDA on their national RDA long service awards. Also pictured (left to right) are Andrea Newstead, Julie Andrew, Janine Frost, Janette Sykes, Pat Atkin and Val Mansell.*
 

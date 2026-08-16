@@ -43,7 +43,7 @@ export default function Navigation() {
               className="flex items-center space-x-3 focus:outline-none focus:ring-2 focus:ring-emerald-500 rounded"
             >
               <img
-                src="/images/rda-logo.png"
+                src="/images/rda-logo.webp"
                 alt="Helen Atkin Group RDA Logo"
                 className="h-10 w-auto"
               />

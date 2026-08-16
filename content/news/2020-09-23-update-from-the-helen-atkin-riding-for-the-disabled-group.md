@@ -5,7 +5,7 @@ author: "kbhgln"
 slug: "update-from-the-helen-atkin-riding-for-the-disabled-group"
 excerpt: "Covid-19 rules and RDA National risk assessments have made it too difficult to safely restart riding sessions this term, but Helen Atkin Group RDA hopes to return in spring with a new roofed arena."
 category: "News"
-image: "/images/RideOut.jpg"
+image: "/images/RideOut.webp"
 imageAlt: ""
 
 ---

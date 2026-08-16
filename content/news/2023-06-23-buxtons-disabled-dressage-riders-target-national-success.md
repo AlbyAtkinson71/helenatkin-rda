@@ -5,13 +5,13 @@ author: "Media"
 slug: "buxtons-disabled-dressage-riders-target-national-success"
 excerpt: "Two dressage competitors supported by a Buxton-based disabled riding charity have scored five-star performances qualifying them to represent the group at a prestigious national event."
 category: "News"
-image: "/images/Jess-and-Hexden-Dancing-Stranger-2024.jpg"
+image: "/images/Jess-and-Hexden-Dancing-Stranger-2024.webp"
 imageAlt: ""
 imagePosition: "center"
 gallery:
-  - src: "/images/Jess-and-Hexden-Dancing-Stranger-2024.jpg"
+  - src: "/images/Jess-and-Hexden-Dancing-Stranger-2024.webp"
     alt: "Jess riding Hexden Dancing Stranger"
-  - src: "/images/VivAndHerculesNationals2023.jpg"
+  - src: "/images/VivAndHerculesNationals2023.webp"
     alt: "Viv sitting on top of Hercules"
 ---
 

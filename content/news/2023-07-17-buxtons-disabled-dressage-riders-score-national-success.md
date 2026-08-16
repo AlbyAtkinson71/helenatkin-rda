@@ -6,7 +6,7 @@ slug: "buxtons-disabled-dressage-riders-score-national-success"
 excerpt: "Two dressage competitors supported by a Buxton-based disabled riding charity have triumphed in a prestigious national event - and could go on to achieve even greater glory."
 category: "News"
 tags: ["RDA", "RDA Nationals 2023"]
-image: "/images/VivAndHerculesNationals2023.jpg"
+image: "/images/VivAndHerculesNationals2023.webp"
 imageAlt: ""
 imagePosition: "center 50%"
 ---

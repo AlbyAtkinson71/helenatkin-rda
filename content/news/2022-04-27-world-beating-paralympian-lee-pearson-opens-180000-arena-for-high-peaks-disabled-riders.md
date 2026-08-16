@@ -5,7 +5,7 @@ author: "Media"
 slug: "world-beating-paralympian-lee-pearson-opens-180000-arena-for-high-peaks-disabled-riders"
 excerpt: "Multi-medal winning Paralympic dressage rider Sir Lee Pearson CBE notched up yet another award to add to his impressive tally when he visited Buxton to officially open a £180,000 covered arena for disabled riders."
 category: "News"
-image: "/images/sir-lee-pearson-group-photo.jpg"
+image: "/images/sir-lee-pearson-group-photo.webp"
 imageAlt: ""
 imagePosition: "center 20%"
 ---

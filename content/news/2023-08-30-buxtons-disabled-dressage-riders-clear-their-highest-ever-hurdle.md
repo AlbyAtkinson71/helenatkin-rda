@@ -5,7 +5,7 @@ author: "Media"
 slug: "buxtons-disabled-dressage-riders-clear-their-highest-ever-hurdle"
 excerpt: "Two dressage competitors supported by a Buxton-based disabled riding charity have crowned their successful 2023 season with impeccable performances at the Equissage Para Bronze and Silver Summer Championships."
 category: "News"
-image: "/images/JessAndVivWithRosettesBD2023.jpg"
+image: "/images/JessAndVivWithRosettesBD2023.webp"
 imageAlt: ""
 imagePosition: "center 30%"
 
