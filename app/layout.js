@@ -12,10 +12,10 @@ export const metadata = {
     default: 'Helen Atkin Group - Riding for the Disabled',
     template: '%s | Helen Atkin Group RDA',
   },
-  description: 'Providing riding therapy for local disabled children and adults in Buxton.',
+  description: 'Helen Atkin Group RDA provides therapeutic horse riding for disabled children and adults across Buxton and the High Peak, Derbyshire. Registered charity 1182183, welcoming new riders and volunteers.',
   openGraph: {
     title: 'Helen Atkin Group - Riding for the Disabled',
-    description: 'Providing riding therapy for local disabled children and adults in Buxton.',
+    description: 'Helen Atkin Group RDA provides therapeutic horse riding for disabled children and adults across Buxton and the High Peak, Derbyshire. Registered charity 1182183, welcoming new riders and volunteers.',
     url: 'https://helenatkinrda.org.uk',
     siteName: 'Helen Atkin Group RDA',
     images: [
