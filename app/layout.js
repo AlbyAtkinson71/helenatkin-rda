@@ -34,6 +34,30 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className="antialiased">
+        <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{
+              __html: JSON.stringify({
+                '@context': 'https://schema.org',
+                '@type': 'NGO',
+                name: 'Helen Atkin Group, Riding for the Disabled',
+                alternateName: 'Helen Atkin Group RDA',
+                url: 'https://helenatkinrda.org.uk',
+                logo: 'https://helenatkinrda.org.uk/images/rda-logo.webp',
+                description: 'Providing therapeutic horse riding for disabled children and adults across Buxton and the High Peak, Derbyshire.',
+                address: {
+                  '@type': 'PostalAddress',
+                  streetAddress: 'Buxton Riding School, Fern Road',
+                  addressLocality: 'Buxton',
+                  addressRegion: 'Derbyshire',
+                  addressCountry: 'GB',
+                },
+                sameAs: [
+                  'https://www.facebook.com/BuxtonRDA/',
+                ],
+              }),
+            }}
+        />
         <Navigation />
         {children}
         <Analytics />

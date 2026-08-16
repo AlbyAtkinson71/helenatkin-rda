@@ -35,6 +35,32 @@ export default async function NewsArticle({ params }) {
 
   return (
     <main id="main-content" className="py-16 bg-gray-50">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            '@context': 'https://schema.org',
+            '@type': 'NewsArticle',
+            headline: postData.title,
+            description: postData.excerpt,
+            datePublished: postData.date,
+            author: {
+              '@type': 'Organization',
+              name: 'Helen Atkin Group RDA',
+            },
+            publisher: {
+              '@type': 'NGO',
+              name: 'Helen Atkin Group RDA',
+              logo: {
+                '@type': 'ImageObject',
+                url: 'https://helenatkinrda.org.uk/images/rda-logo.webp',
+              },
+            },
+            image: postData.image ? `https://helenatkinrda.org.uk${postData.image}` : undefined,
+            mainEntityOfPage: `https://helenatkinrda.org.uk/news/${slug}`,
+          }),
+        }}
+      />
       <article className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         <header className="mb-8">
           {postData.category && (
