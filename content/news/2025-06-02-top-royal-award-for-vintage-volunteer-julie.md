@@ -3,11 +3,11 @@ title: "Top Royal award for vintage volunteer Julie"
 date: "2025-06-02"
 author: "Media"
 slug: "top-royal-award-for-vintage-volunteer-julie"
-excerpt: "One of the key founders of a High Peak charity providing life-changing therapy for disabled people of all ages has been awarded the highest accolade bestowed by the Riding for the Disabled Association (RDA) for decades of service to the group."
+excerpt: "Julie Andrew, a founding volunteer of Helen Atkin Group Buxton RDA 38 years ago, has received RDA's prestigious President's Award for decades of service, presented by HRH The Princess Royal."
 category: "News"
 tags: ["HRH The Princess Royal", "RDA", "Volunteering"]
 image: "/images/JuliePresidentsAward2025.jpg"
-imageAlt: "Defibrillator installed at Buxton Riding School"
+imageAlt: "Julie Andrew receiving her President's Award from HRH The Princess Royal"
 ---
 
 One of the key founders of a High Peak charity providing life-changing therapy for disabled people of all ages has been awarded the highest accolade bestowed by the Riding for the Disabled Association (RDA) for decades of service to the group.

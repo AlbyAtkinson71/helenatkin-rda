@@ -3,7 +3,7 @@ title: "High Peak riding charity bags £1,500 from Tesco's community grants sche
 date: "2023-02-25"
 author: "Media"
 slug: "high-peak-riding-charity-bags-1500-from-tescos-community-grants-scheme"
-excerpt: "High Peak shoppers have helped a Buxton-based charity net £1,500 to help it boost the comfort and safety of disabled riders of all ages."
+excerpt: "High Peak shoppers have helped Helen Atkin Group Buxton RDA net £1,500 through Tesco's Community Grant scheme, funding specially-adapted tack for disabled riders from pre-school to retirement age."
 category: "News"
 image: "/images/RideOut.jpg"
 imageAlt: ""

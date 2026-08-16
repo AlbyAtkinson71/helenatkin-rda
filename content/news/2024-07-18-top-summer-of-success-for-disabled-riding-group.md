@@ -3,7 +3,7 @@ title: "Top summer of success for disabled riding group"
 date: "2024-07-18"
 author: "Media"
 slug: "top-summer-of-success-for-disabled-riding-group"
-excerpt: "Volunteers and competitors at a High Peak-based disabled riding charity are celebrating an outstanding summer of success – including the Royal seal of approval for their service and expertise and top dressage results in a national competition."
+excerpt: "Volunteers and competitors at Helen Atkin Group Buxton RDA are celebrating an outstanding summer of success, including Royal recognition for founder Pat Atkin and top dressage results at the RDA National Championships."
 category: "News"
 tags: ["RDA"]
 image: "/images/RDAAwards-139.jpg"
