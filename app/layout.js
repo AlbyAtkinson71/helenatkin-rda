@@ -50,6 +50,7 @@ export default function RootLayout({ children }) {
                   streetAddress: 'Buxton Riding School, Fern Road',
                   addressLocality: 'Buxton',
                   addressRegion: 'Derbyshire',
+                  postalCode: 'SK17 9NP',
                   addressCountry: 'GB',
                 },
                 sameAs: [
