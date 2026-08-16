@@ -6,6 +6,7 @@ slug: "national-accolade-for-long-serving-disabled-riding-volunteers"
 excerpt: "Long-serving volunteers have received national recognition for notching up more than 135 years’ work to help boost the health, happiness and quality of life for disabled riders of all ages and abilities."
 category: "News"
 image: "images/Long_service_awards_2022.webp"
+imageThumb: "/images/Long_service_awards_2022-card.webp"
 imageAlt: ""
 imagePosition: "center"
 ---

@@ -6,6 +6,7 @@ slug: "regional-accolade-for-buxtons-disabled-riding-group"
 excerpt: "Helen Atkin Group Buxton RDA has been highly commended in BBC Radio Derby's Make a Difference Awards, recognising unsung heroes who have gone the extra mile for their community since the pandemic."
 category: "News"
 image: "/images/BBC-Radio-Derby-Make-a-Difference-Awards-2022-web-300x225.webp"
+imageThumb: "/images/BBC-Radio-Derby-Make-a-Difference-Awards-2022-web-300x225-card.webp"
 imageAlt: ""
 imagePosition: "center 50%"
 

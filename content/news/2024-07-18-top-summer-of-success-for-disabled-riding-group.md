@@ -7,6 +7,7 @@ excerpt: "Volunteers and competitors at Helen Atkin Group Buxton RDA are celebra
 category: "News"
 tags: ["RDA"]
 image: "/images/RDAAwards-139.webp"
+imageThumb: "/images/RDAAwards-139-card.webp"
 imageAlt: ""
 imagePosition: "center"
 gallery:

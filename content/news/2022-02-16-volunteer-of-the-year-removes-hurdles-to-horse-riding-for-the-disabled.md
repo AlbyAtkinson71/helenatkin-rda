@@ -6,6 +6,7 @@ slug: "volunteer-of-the-year-removes-hurdles-to-horse-riding-for-the-disabled"
 excerpt: "Journalist Janette Sykes has been honoured after 35 years of work for a group which gives disabled people a new perspective on life through a shared passion for horse-riding."
 category: "News"
 image: "/images/volunteer-of-the-year-2022.webp"
+imageThumb: "/images/volunteer-of-the-year-2022-card.webp"
 imageAlt: ""
 imagePosition: "center"
 ---

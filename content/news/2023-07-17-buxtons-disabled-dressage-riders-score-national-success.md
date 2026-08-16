@@ -7,6 +7,7 @@ excerpt: "Two dressage competitors supported by a Buxton-based disabled riding c
 category: "News"
 tags: ["RDA", "RDA Nationals 2023"]
 image: "/images/VivAndHerculesNationals2023.webp"
+imageThumb: "/images/VivAndHerculesNationals2023-card.webp"
 imageAlt: ""
 imagePosition: "center 50%"
 ---

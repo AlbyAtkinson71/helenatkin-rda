@@ -8,6 +8,7 @@ category: "News"
 tags: ["royalvisit", "herroyalhighnesstheprincessroyal", "royal", "fund-raising", "RDA"]
 youtubeId: "ggtOTPqUfjI"
 image: "/images/royal-visit-feb-2025.webp"
+imageThumb: "/images/royal-visit-feb-2025-card.webp"
 imageAlt: "Her Royal Highness The Princess Royal greeting members of the Helen Atkin RDA"
 gallery:
   - src: "/images/RDA-Buxton-Royal-Visit-1.webp"

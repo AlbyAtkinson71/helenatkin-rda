@@ -7,6 +7,7 @@ excerpt: "First-time London Marathon runner Issy Frost has tripled the original 
 category: "News"
 tags: ["#londonmarathon", "#marathonlondon", "fund-raising", "fundraising", "RDA"]
 image: "/images/Issy1.webp"
+imageThumb: "/images/Issy1-card.webp"
 imageAlt: "Issy holding her marathon number"
 ---
 

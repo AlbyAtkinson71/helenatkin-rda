@@ -7,6 +7,7 @@ excerpt: "Julie Andrew, a founding volunteer of Helen Atkin Group Buxton RDA 38 
 category: "News"
 tags: ["HRH The Princess Royal", "RDA", "Volunteering"]
 image: "/images/JuliePresidentsAward2025.webp"
+imageThumb: "/images/JuliePresidentsAward2025-card.webp"
 imageAlt: "Julie Andrew receiving her President's Award from HRH The Princess Royal"
 ---
 

@@ -6,6 +6,7 @@ slug: "silver-success-on-the-world-stage-for-para-dressage-rider-jessica"
 excerpt: "Derbyshire rider Jessica Limb – who receives on-going support from a Buxton based disabled riding charity – has scored success on her international debut in the inaugural Virtus World Para-Dressage Championships."
 category: "News"
 image: "/images/Jess-and-Danny-2025.webp"
+imageThumb: "/images/Jess-and-Danny-2025-card.webp"
 imageAlt: "two riders standing with a horse"
 ---
 

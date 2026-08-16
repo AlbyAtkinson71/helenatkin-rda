@@ -7,6 +7,7 @@ excerpt: "Emergency – and potentially life-saving - treatment is now available
 category: "News"
 tags: ["defibrillator", "fund-raising", "RDA"]
 image: "/images/defibrillator1.webp"
+imageThumb: "/images/defibrillator1-card.webp"
 imageAlt: "Defibrillator installed at Buxton Riding School"
 ---
 

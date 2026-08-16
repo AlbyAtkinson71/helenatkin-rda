@@ -46,6 +46,8 @@ export default function Navigation() {
                 src="/images/rda-logo.webp"
                 alt="Helen Atkin Group RDA Logo"
                 className="h-10 w-auto"
+                width="60"
+                height="40"
               />
               <span className="text-xl font-bold text-gray-900 hidden sm:block">
                 Helen Atkin Group RDA

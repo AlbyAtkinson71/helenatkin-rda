@@ -6,6 +6,7 @@ slug: "veteran-volunteer-pats-royal-appointment"
 excerpt: "Almost four decades of unstinting service to a Buxton-based charity set up in her late daughter Helen’s name have been crowned with a very special Royal invitation for Riding for the Disabled champion Pat Atkin."
 category: "News"
 image: "/images/Pat-at-Buckingham-Palace-Garden-Party.webp"
+imageThumb: "/images/Pat-at-Buckingham-Palace-Garden-Party-card.webp"
 imageAlt: ""
 imagePosition: "center 20%"
 ---

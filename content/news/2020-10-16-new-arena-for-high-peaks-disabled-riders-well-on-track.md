@@ -7,6 +7,7 @@ excerpt: "Work is progressing apace on a £140,000 covered equestrian arena bein
 category: "News"
 tags: ["arena", "fund-raising"]
 image: "images/NR20-04-20_Groundwork_covered_arena.webp"
+imageThumb: "/images/NR20-04-20_Groundwork_covered_arena-card.webp"
 imageAlt: ""
 ---
 

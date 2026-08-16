@@ -1,19 +1,23 @@
 // app/components/NewsCard.jsx
 // Accessible news article card component
-// NOTE: Uses standard <img> tags (not next/image) to avoid path/optimization issues
+// Uses a dedicated small thumbnail image where available (imageThumb),
+// falling back to the full-size image for older articles that don't have one yet.
 
 export default function NewsCard({ article }) {
+  const cardImage = article.imageThumb || article.image;
+
   return (
     <article className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-xl transition-shadow duration-300">
       {/* Featured image */}
       <div className="relative h-48 overflow-hidden bg-gradient-to-br from-[#e8f4f0] to-[#dff0ea]">
-        {article.image ? (
+        {cardImage ? (
           <img
-            src={article.image}
+            src={cardImage}
             alt={article.imageAlt || ''}
             className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
             loading="lazy"
-            style={{ objectPosition: article.imagePosition || 'center' }}
+            width="700"
+            height="192"
           />
         ) : (
           <div className="w-full h-full flex items-center justify-center text-[#2d5f4f]">

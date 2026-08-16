@@ -6,6 +6,7 @@ slug: "buxton-card-players-rake-in-1000-in-record-time-for-disabled-riding-chari
 excerpt: "Community minded card players have raised around £20,000 over the past 33 years to support a Buxton-based charity offering riding therapy for disabled people of all ages."
 category: "News"
 image: "/images/WhistDrive.webp"
+imageThumb: "/images/WhistDrive-card.webp"
 imageAlt: ""
 imagePosition: "center 20%"
 ---

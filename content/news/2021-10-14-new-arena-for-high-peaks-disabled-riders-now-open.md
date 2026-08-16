@@ -6,6 +6,7 @@ slug: "new-arena-for-high-peaks-disabled-riders-now-open"
 excerpt: "Riders, volunteers and supporters of Helen Atkin Group Buxton Riding for the Disabled (RDA) are celebrating the start of a bright new era as their wraps come off their state-of-the-art, £168,000 covered riding arena."
 category: "News"
 image: "/images/Ribbon-cutting-Helen-Atkin-Arena.webp"
+imageThumb: "/images/Ribbon-cutting-Helen-Atkin-Arena-card.webp"
 imageAlt: ""
 ---
 

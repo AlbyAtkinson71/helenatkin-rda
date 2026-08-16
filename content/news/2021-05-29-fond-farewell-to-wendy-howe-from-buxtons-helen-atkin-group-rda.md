@@ -6,6 +6,7 @@ slug: "fond-farewell-to-wendy-howe-from-buxtons-helen-atkin-group-rda"
 excerpt: "Warm tributes are being paid to Wendy Howe, who has stepped down after 19 years’ loyal and unstinting service as Chairman of the Helen Atkin Group, RDA in Buxton."
 category: "News"
 image: "images/fundraising-banner.webp"
+imageThumb: "/images/fundraising-banner-card.webp"
 imageAlt: ""
 ---
 
