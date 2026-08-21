@@ -4,7 +4,7 @@
 import { getAllPostSlugs } from '../lib/posts';
 
 export default function sitemap() {
-  const baseUrl = 'https://helenatkinrda.org.uk';
+  const baseUrl = 'https://www.helenatkinrda.org.uk';
 
   const staticRoutes = [
     '',

@@ -7,7 +7,7 @@ import { SpeedInsights } from '@vercel/speed-insights/next';
 import './globals.css';
 
 export const metadata = {
-  metadataBase: new URL('https://helenatkinrda.org.uk'),
+  metadataBase: new URL('https://www.helenatkinrda.org.uk'),
   title: {
     default: 'Helen Atkin Group - Riding for the Disabled',
     template: '%s | Helen Atkin Group RDA',
@@ -16,7 +16,7 @@ export const metadata = {
   openGraph: {
     title: 'Helen Atkin Group - Riding for the Disabled',
     description: 'Helen Atkin Group RDA provides therapeutic horse riding for disabled children and adults across Buxton and the High Peak, Derbyshire. Registered charity 1182183, welcoming new riders and volunteers.',
-    url: 'https://helenatkinrda.org.uk',
+    url: 'https://www.helenatkinrda.org.uk',
     siteName: 'Helen Atkin Group RDA',
     images: [
       {
@@ -42,8 +42,8 @@ export default function RootLayout({ children }) {
                 '@type': 'NGO',
                 name: 'Helen Atkin Group, Riding for the Disabled',
                 alternateName: 'Helen Atkin Group RDA',
-                url: 'https://helenatkinrda.org.uk',
-                logo: 'https://helenatkinrda.org.uk/images/rda-logo.webp',
+                url: 'https://www.helenatkinrda.org.uk',
+                logo: 'https://www.helenatkinrda.org.uk/images/rda-logo.webp',
                 description: 'Providing therapeutic horse riding for disabled children and adults across Buxton and the High Peak, Derbyshire.',
                 address: {
                   '@type': 'PostalAddress',

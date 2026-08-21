@@ -7,6 +7,6 @@ export default function robots() {
       userAgent: '*',
       allow: '/',
     },
-    sitemap: 'https://helenatkinrda.org.uk/sitemap.xml',
+    sitemap: 'https://www.helenatkinrda.org.uk/sitemap.xml',
   };
 }

@@ -19,7 +19,7 @@ export async function generateMetadata({ params }) {
     openGraph: {
       title: postData.title,
       description: postData.excerpt || postData.title,
-      url: `https://helenatkinrda.org.uk/news/${slug}`,
+      url: `https://www.helenatkinrda.org.uk/news/${slug}`,
       type: 'article',
       publishedTime: postData.date,
       images: postData.image
@@ -53,10 +53,10 @@ export default async function NewsArticle({ params }) {
               name: 'Helen Atkin Group RDA',
               logo: {
                 '@type': 'ImageObject',
-                url: 'https://helenatkinrda.org.uk/images/rda-logo.webp',
+                url: 'https://www.helenatkinrda.org.uk/images/rda-logo.webp',
               },
             },
-            image: postData.image ? `https://helenatkinrda.org.uk${postData.image}` : undefined,
+            image: postData.image ? `https://www.helenatkinrda.org.uk${postData.image}` : undefined,
             mainEntityOfPage: `https://helenatkinrda.org.uk/news/${slug}`,
           }),
         }}
