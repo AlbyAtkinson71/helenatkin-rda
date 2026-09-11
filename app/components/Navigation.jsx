@@ -70,6 +70,12 @@ export default function Navigation() {
               Media Centre
             </a>
             <a
+              href="/term-dates"
+              className="text-gray-700 hover:text-emerald-700 px-3 py-2 rounded font-medium transition-colors focus:outline-none focus:ring-2 focus:ring-emerald-500"
+            >
+              Term Dates
+            </a>
+            <a
               href="/documents"
               className="text-gray-700 hover:text-emerald-700 px-3 py-2 rounded font-medium transition-colors focus:outline-none focus:ring-2 focus:ring-emerald-500"
             >
@@ -152,6 +158,13 @@ export default function Navigation() {
               onClick={() => setMobileMenuOpen(false)}
             >
               Media Centre
+            </a>
+            <a
+              href="/term-dates"
+              className="block text-gray-700 hover:bg-emerald-50 hover:text-emerald-700 px-3 py-2 rounded font-medium transition-colors focus:outline-none focus:ring-2 focus:ring-emerald-500"
+              onClick={() => setMobileMenuOpen(false)}
+            >
+              Term Dates
             </a>
             <a
               href="/documents"

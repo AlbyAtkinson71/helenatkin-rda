@@ -9,6 +9,7 @@ export default function sitemap() {
   const staticRoutes = [
     '',
     '/media-centre',
+    '/term-dates',
     '/documents',
     '/accessibility-statement',
     '/cookie-policy',

@@ -99,6 +99,14 @@ export default function RootLayout({ children }) {
                   </li>
                   <li>
                     <a
+                      href="/term-dates"
+                      className="inline-block py-2 text-gray-300 hover:text-white transition-colors"
+                    >
+                      Term Dates
+                    </a>
+                  </li>
+                  <li>
+                    <a
                       href="/documents"
                       className="inline-block py-2 text-gray-300 hover:text-white transition-colors"
                     >
