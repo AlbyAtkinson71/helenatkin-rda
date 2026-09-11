@@ -28,8 +28,8 @@ const termGroups = [
 ];
  
 const address = 'Buxton Riding School, Fern Farm, Fern Road, Buxton, Derbyshire SK17 9NP';
-const mapEmbedSrc = `https://www.google.com/maps?q=${encodeURIComponent(address)}&output=embed`;
 const directionsHref = `https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(address)}`;
+const mapViewHref = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(address)}`;
  
 function CalendarIcon() {
   return (
@@ -76,9 +76,9 @@ function MailIcon() {
   );
 }
  
-function MapPinIcon() {
+function MapPinIcon({ className = 'w-5 h-5 flex-shrink-0' }) {
   return (
-    <svg className="w-5 h-5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+    <svg className={className} fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
       <path
         strokeLinecap="round"
         strokeLinejoin="round"
@@ -86,6 +86,20 @@ function MapPinIcon() {
         d="M17.657 16.657L13.414 20.9a2 2 0 01-2.828 0l-4.243-4.243a8 8 0 1111.314 0z"
       />
       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+    </svg>
+  );
+}
+
+function ExternalLinkIcon() {
+  return (
+    <svg className="w-4 h-4 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+      <path
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth={2}
+        d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"
+      />
+      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 3h6v6M21 3l-9 9" />
     </svg>
   );
 }
@@ -154,22 +168,57 @@ export default function TermDatesPage() {
                   className="inline-block mt-3 text-[#2d5f4f] font-semibold underline focus:outline-none focus:ring-4 focus:ring-emerald-300 rounded"
                 >
                   Get directions
+                  <span className="sr-only"> (opens in a new tab)</span>
                 </a>
               </div>
             </div>
           </div>
  
-          <div className="rounded-lg overflow-hidden shadow-sm">
-            <iframe
-              title="Map showing Buxton Riding School, Fern Farm, Fern Road, Buxton, Derbyshire SK17 9NP"
-              src={mapEmbedSrc}
-              width="100%"
-              height="350"
-              style={{ border: 0 }}
-              loading="lazy"
-              referrerPolicy="no-referrer-when-downgrade"
-            />
-          </div>
+          {/*
+            A static thumbnail rather than a live embedded map: no iframe, so
+            nothing here depends on the site's Content-Security-Policy
+            allowing third-party frames. The whole card is a single link with
+            a clear destination and a visible "opens in a new tab" notice for
+            screen reader and keyboard users; the graphic behind it is purely
+            decorative and hidden from assistive tech.
+          */}
+          <a
+            href={mapViewHref}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="group block bg-white rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-shadow duration-200 focus:outline-none focus:ring-4 focus:ring-emerald-300"
+          >
+            <div
+              className="relative aspect-[16/9] sm:aspect-[21/9] bg-emerald-50 flex items-center justify-center overflow-hidden"
+              aria-hidden="true"
+            >
+              <svg
+                className="absolute inset-0 w-full h-full text-emerald-100"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 400 180"
+                preserveAspectRatio="none"
+              >
+                <path strokeWidth="5" d="M0 55h400M0 130h400M110 0v180M290 0v180" />
+              </svg>
+              <span className="relative bg-white rounded-full p-4 shadow-md ring-4 ring-white group-hover:scale-105 transition-transform">
+                <MapPinIcon className="w-8 h-8 text-red-600" />
+              </span>
+            </div>
+            <div className="flex items-center justify-between gap-3 px-5 py-4">
+              <span>
+                <span className="block font-semibold text-gray-900 group-hover:text-emerald-700">
+                  View map of Buxton Riding School
+                </span>
+                <span className="block text-sm text-gray-500">Fern Road, Buxton, Derbyshire SK17 9NP</span>
+              </span>
+              <span className="flex items-center gap-1 text-sm font-semibold text-[#2d5f4f] flex-shrink-0">
+                Google Maps
+                <ExternalLinkIcon />
+                <span className="sr-only"> (opens in a new tab)</span>
+              </span>
+            </div>
+          </a>
         </section>
  
         {/* Contact */}
