@@ -1,6 +1,8 @@
 // app/components/Hero.jsx
 // Redesigned hero - content-dominant, cards above the fold
 
+import EnquiryButton from './EnquiryButton';
+
 export default function Hero() {
   return (
     <section
@@ -126,12 +128,20 @@ export default function Hero() {
                 </a>
               </p>
               <p>
-                <a
-                  href="mailto:wardsinbuxton@gmail.com"
-                  className="text-emerald-700 hover:text-emerald-800 underline focus:outline-none focus:ring-2 focus:ring-emerald-500 rounded break-all"
+                {/*
+                  No mailto: href and no address rendered as text - both are
+                  scraped equally. Opens the on-page enquiry form instead
+                  (app/components/EnquiryButton.jsx + EnquiryModal.jsx),
+                  which posts to app/api/enquiry/route.js; the browser
+                  never sees wardsinbuxton@gmail.com.
+                */}
+                <EnquiryButton
+                  recipient="volunteering"
+                  name="Deborah Ward"
+                  className="text-emerald-700 hover:text-emerald-800 underline focus:outline-none focus:ring-2 focus:ring-emerald-500 rounded"
                 >
-                  wardsinbuxton@gmail.com
-                </a>
+                  Send a message
+                </EnquiryButton>
               </p>
             </div>
           </div>
@@ -159,12 +169,13 @@ export default function Hero() {
                 </a>
               </p>
               <p>
-                <a
-                  href="mailto:janinefrostrda@gmail.com"
-                  className="text-emerald-700 hover:text-emerald-800 underline focus:outline-none focus:ring-2 focus:ring-emerald-500 rounded break-all"
+                <EnquiryButton
+                  recipient="new-rider"
+                  name="Janine Frost"
+                  className="text-emerald-700 hover:text-emerald-800 underline focus:outline-none focus:ring-2 focus:ring-emerald-500 rounded"
                 >
-                  janinefrostrda@gmail.com
-                </a>
+                  Send a message
+                </EnquiryButton>
               </p>
             </div>
           </div>

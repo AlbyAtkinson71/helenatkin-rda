@@ -1,5 +1,7 @@
 // app/accessibility-statement/page.js
 
+import EnquiryButton from '../components/EnquiryButton';
+
 export const metadata = {
   title: 'Accessibility Statement',
   description: 'Accessibility statement for the Helen Atkin Group RDA website.',
@@ -83,8 +85,21 @@ export default function AccessibilityStatement() {
             If you have any difficulty using this website, or have feedback on its
             accessibility, please get in touch:
           </p>
+          {/*
+            No mailto: href and no address rendered as text - both are
+            scraped equally. Opens the on-page enquiry form instead; the
+            browser never sees website@helenatkinrda.org.uk.
+          */}
           <ul>
-            <li>Email: <a href="mailto:website@helenatkinrda.org.uk" className="text-emerald-700 underline hover:text-emerald-800">website@helenatkinrda.org.uk</a></li>
+            <li>
+              <EnquiryButton
+                recipient="accessibility"
+                name="the website team"
+                className="text-emerald-700 underline hover:text-emerald-800"
+              >
+                Send us a message
+              </EnquiryButton>
+            </li>
           </ul>
           <p>We aim to respond to accessibility queries within a reasonable timeframe.</p>
 

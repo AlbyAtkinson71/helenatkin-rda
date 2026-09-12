@@ -5,12 +5,16 @@ const securityHeaders = [
   key: 'Content-Security-Policy',
   value: [
     "default-src 'self'",
-    `script-src 'self' 'unsafe-inline'${process.env.NODE_ENV === 'development' ? " 'unsafe-eval'" : ''}`,
+    // https://challenges.cloudflare.com added for the Turnstile widget used
+    // by the enquiry form (app/components/EnquiryModal.jsx) - it loads a
+    // script, renders in an iframe, and calls back to Cloudflare as part of
+    // the challenge, so it needs all three of script-src/frame-src/connect-src.
+    `script-src 'self' 'unsafe-inline' https://challenges.cloudflare.com${process.env.NODE_ENV === 'development' ? " 'unsafe-eval'" : ''}`,
     "style-src 'self' 'unsafe-inline'",
     "img-src 'self' data: blob:",
     "font-src 'self'",
-    "connect-src 'self'",
-    "frame-src 'self' https://www.youtube-nocookie.com",
+    "connect-src 'self' https://challenges.cloudflare.com",
+    "frame-src 'self' https://www.youtube-nocookie.com https://challenges.cloudflare.com",
     "frame-ancestors 'none'",
     "object-src 'none'",
     "base-uri 'self'",

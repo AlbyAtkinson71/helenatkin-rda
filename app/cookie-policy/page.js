@@ -1,5 +1,7 @@
 // app/cookie-policy/page.js
 
+import EnquiryButton from '../components/EnquiryButton';
+
 export const metadata = {
   title: 'Cookie Policy',
   description: 'Cookie policy for the Helen Atkin Group RDA website.',
@@ -81,10 +83,19 @@ export default function CookiePolicy() {
 
           <h2>Questions</h2>
           <p>
-            If you have any questions about this policy, please contact us at{' '}
-            <a href="mailto:wardsinbuxton@gmail.com" className="text-emerald-700 underline hover:text-emerald-800">
-              wardsinbuxton@gmail.com
-            </a>.
+            If you have any questions about this policy, please{' '}
+            {/*
+              No mailto: href and no address rendered as text - both are
+              scraped equally. Opens the on-page enquiry form instead; the
+              browser never sees wardsinbuxton@gmail.com.
+            */}
+            <EnquiryButton
+              recipient="volunteering"
+              name="Deborah Ward"
+              className="text-emerald-700 underline hover:text-emerald-800"
+            >
+              get in touch
+            </EnquiryButton>.
           </p>
         </div>
       </div>

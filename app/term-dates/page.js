@@ -1,6 +1,8 @@
 
 // app/term-dates/page.js
- 
+
+import EnquiryButton from '../components/EnquiryButton';
+
 export const metadata = {
   title: 'Term Dates',
   description: 'Term dates for Helen Atkin Group, Riding for the Disabled, at Buxton Riding School',
@@ -237,13 +239,21 @@ export default function TermDatesPage() {
                 <PhoneIcon />
                 07960 961 605
               </a>
-              <a
-                href="mailto:janinefrostrda@gmail.com"
+              {/*
+                No mailto: href and no address rendered as text - both are
+                scraped equally. Opens the on-page enquiry form instead
+                (app/components/EnquiryButton.jsx + EnquiryModal.jsx),
+                which posts to app/api/enquiry/route.js; the browser
+                never sees janinefrostrda@gmail.com.
+              */}
+              <EnquiryButton
+                recipient="new-rider"
+                name="Janine Frost"
                 className="flex items-center gap-2 text-[#2d5f4f] font-semibold focus:outline-none focus:ring-4 focus:ring-emerald-300 rounded"
               >
                 <MailIcon />
-                janinefrostrda@gmail.com
-              </a>
+                Send a message
+              </EnquiryButton>
             </div>
           </div>
         </section>
