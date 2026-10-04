@@ -9,9 +9,9 @@
 // than a transactional email API - see the "SMTP via Fasthosts" section of
 // claude/enquiry-form-architecture.md for the tradeoffs and setup steps.
 //
-// npm install nodemailer
+// SMTP transporter lives in lib/mailer.js (shared with app/api/health).
 
-import nodemailer from 'nodemailer';
+import { getTransporter, fromAddress } from '../../../lib/mailer';
 import { resolveRecipient } from '../../../lib/enquiry-recipients';
 import { checkRateLimit } from '../../../lib/rate-limit';
 
@@ -20,21 +20,6 @@ export const runtime = 'nodejs'; // nodemailer needs Node, not the edge runtime
 const MAX_NAME_LENGTH = 100;
 const MAX_MESSAGE_LENGTH = 2000;
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-
-let transporter = null;
-function getTransporter() {
-  if (transporter) return transporter;
-  transporter = nodemailer.createTransport({
-    host: process.env.SMTP_HOST, // e.g. smtp.livemail.co.uk - confirm exact value in the Fasthosts control panel
-    port: Number(process.env.SMTP_PORT || 465),
-    secure: Number(process.env.SMTP_PORT || 465) === 465, // true for port 465 (SSL/TLS), false for 587 (STARTTLS)
-    auth: {
-      user: process.env.SMTP_USER, // full mailbox address, e.g. noreply@helenatkinrda.org.uk - a DEDICATED mailbox, not a trustee's personal one
-      pass: process.env.SMTP_PASS,
-    },
-  });
-  return transporter;
-}
 
 // Strips characters that have no business in a plain-text form field but
 // could otherwise be used to inject headers or markup - not a full HTML
@@ -123,10 +108,7 @@ export async function POST(request) {
 
   try {
     await getTransporter().sendMail({
-      // A dedicated no-reply mailbox on the site's own domain - never a
-      // trustee's personal inbox - so the credentials sitting in this
-      // function's environment variables are low-value if ever exposed.
-      from: `"Helen Atkin RDA website" <${process.env.SMTP_USER}>`,
+      from: fromAddress(),
       to: recipientEntry.address,
       replyTo: cleanEmail,
       subject: `${recipientEntry.subject} - ${cleanName}`,
