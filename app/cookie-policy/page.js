@@ -79,7 +79,7 @@ export default function CookiePolicy() {
             If we ever introduce additional cookies or tracking tools in the future, we will
             update this policy and, where required by law, seek your consent first.
           </p>
-          <p>This policy was last reviewed on <strong>[INSERT DATE]</strong>.</p>
+          <p>This policy was last reviewed on <strong>11 October 2026</strong>.</p>
 
           <h2>Questions</h2>
           <p>
@@ -87,11 +87,11 @@ export default function CookiePolicy() {
             {/*
               No mailto: href and no address rendered as text - both are
               scraped equally. Opens the on-page enquiry form instead; the
-              browser never sees wardsinbuxton@gmail.com.
+              browser never sees the mailbox address.
             */}
             <EnquiryButton
-              recipient="volunteering"
-              name="Deborah Ward"
+              recipient="accessibility"
+              name="the website team"
               className="text-emerald-700 underline hover:text-emerald-800"
             >
               get in touch
