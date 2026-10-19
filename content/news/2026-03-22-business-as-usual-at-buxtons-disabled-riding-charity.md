@@ -9,7 +9,7 @@ tags: ["Buxton Riding School", "RDA", Helen Atkin RDA]
 image: "/images/janine-frost-march2026.webp"
 imageThumb: "/images/janine-frost-march2026-card.webp"
 imageAlt: "Janine Frost, Chairperson of Helen Atkin Group RDA"
-imagePosition: "center 20%"
+imagePosition: "center 30%"
 ---
 
 Business is continuing as usual at Helen Atkin Group Riding for the Disabled Association (RDA), where all riding and carriage driving sessions remain unaffected by forthcoming changes at Buxton Riding School.
