@@ -7,6 +7,7 @@ excerpt: "Parents, carers and supporters watched riders and volunteers show off 
 category: "News"
 tags: ["Autumn Showcase", "RDA", "Helen Atkin RDA"]
 image: "/images/AutumnShowcase2026.jpg"
+imagePosition: "center top"
 imageAlt: "Four smiling members of Helen Atkin Group RDA holding bouquets of flowers in the covered arena in Buxton"
 ---
 
