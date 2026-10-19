@@ -9,6 +9,7 @@ tags: ["Autumn Showcase", "RDA", "Helen Atkin RDA"]
 image: "/images/AutumnShowcase2026.jpg"
 imagePosition: "center top"
 imageAlt: "Four smiling members of Helen Atkin Group RDA holding bouquets of flowers in the covered arena in Buxton"
+gallery: true
 ---
 
 Parents, carers and supporters of Helen Atkin Group RDA were treated to a professional and varied portfolio of skills by riders and volunteers at the group's Autumn Showcase on Saturday 17 October 2026.

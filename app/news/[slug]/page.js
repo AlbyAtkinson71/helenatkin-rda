@@ -2,6 +2,7 @@
 import { getPostData, getAllPostSlugs } from '../../../lib/posts';
 import Gallery from '../../components/Gallery';
 import VideoEmbed from '../../components/VideoEmbed';
+import { getGalleryPhotos } from '../../../lib/gallery';
 
 export async function generateStaticParams() {
   const slugs = getAllPostSlugs();
@@ -110,7 +111,12 @@ export default async function NewsArticle({ params }) {
           <VideoEmbed youtubeId={postData.youtubeId} title={postData.title} />
         )}
 
-        {postData.gallery && postData.gallery.length > 0 && (
+        {/* gallery: true in frontmatter shows the shared photo list (lib/gallery.js).
+            A list of { src, alt } objects in frontmatter shows that article's own photos. */}
+        {postData.gallery === true && (
+          <Gallery images={getGalleryPhotos()} />
+        )}
+        {Array.isArray(postData.gallery) && postData.gallery.length > 0 && (
           <Gallery images={postData.gallery} />
         )}
 
