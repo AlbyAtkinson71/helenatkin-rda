@@ -7,7 +7,7 @@ excerpt: "Buxton volunteer Janette Sykes has received the RDA President's Award 
 category: "News"
 tags: ["President's Award", "RDA", "Helen Atkin RDA", "Volunteers"]
 image: "/images/JanetteAndJanineNovember2026.jpg"
-imagePosition: "center"
+imagePosition: "center bottom"
 imageAlt: "Janette Sykes (left) with her RDA President's Award, pictured with Janine Frost, Chairperson of Buxton-based Helen Atkin Group RDA"
 ---
 
